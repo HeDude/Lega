@@ -1,0 +1,50 @@
+{
+  "How would you proceed?": {
+    "Reproductive": "By following others",
+    "Application": "By trying",
+    "Meaning": "By consulting a map",
+    "Productive": "Going my own way"
+  },
+  "What applies to you most?": {
+    "Reproductive": "Tell me how to learn",
+    "Application": "I like to find out how I want to learn by doing",
+    "Meaning": "I want to investigate what kind of learning suites me best",
+    "Productive": "I want to determine how I learn all by myself"
+  },
+  "What is your favorite challenge?": {
+    "Reproductive": "If I can follow a storyline",
+    "Application": "If I can build something",
+    "Meaning": "If I can explore",
+    "Productive": "If I can come up with something myself"
+  },
+  "What would you do?": {
+    "Reproductive": "Imitating",
+    "Application": "Innovating",
+    "Meaning": "Investigating",
+    "Productive": "Take initiative"
+  },
+  "What would you like most?": {
+    "Reproductive": "That others appreciate my effort",
+    "Application": "That I can design something",
+    "Meaning": "That I understand something",
+    "Productive": "That I add value to society"
+  },
+  "When would you act?": {
+    "Reproductive": "If someone tells me to",
+    "Application": "Whenever I can do something",
+    "Meaning": "If I can see the point of it",
+    "Productive": "If I feel like it"
+  },
+  "Where would you go?": {
+    "Reproductive": "Where others are excited about",
+    "Application": "Where you can do fun activities",
+    "Meaning": "Where after some detective work it seems interesting",
+    "Productive": "Where no one has gone before"
+  },
+  "Which tool would you bring with you?": {
+    "Reproductive": "Survival guide",
+    "Application": "Tool box",
+    "Meaning": "Navigation system",
+    "Productive": "Camera"
+  }
+}

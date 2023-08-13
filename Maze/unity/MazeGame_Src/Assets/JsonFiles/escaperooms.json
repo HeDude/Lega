@@ -1,0 +1,49 @@
+{
+  "Positions": {
+    "Center": {
+      "Name": "start",
+      "Type": "question",
+      "Reference": "What applies to you most?"
+    },
+    "Topleft": {
+      "Name": "productive or meaning-oriented",
+      "Type": "question",
+      "Reference": "What would you choose?"
+    },
+    "Top": {
+      "Name": "productive",
+      "Type": "question",
+      "Reference": "What would you like most?"
+    },
+    "Topright": {
+      "Name": "productive or application-oriented",
+      "Type": "question",
+      "Reference": "Where would you go?"
+    },
+    "Right": {
+      "Name": "application-oriented",
+      "Type": "question",
+      "Reference": "How would you proceed?"
+    },
+    "Bottomright": {
+      "Name": "reproductive or application-oriented",
+      "Type": "question",
+      "Reference": "When would you act?"
+    },
+    "Bottom": {
+      "Name": "reproductive",
+      "Type": "question",
+      "Reference": "What is your favorite challenge?"
+    },
+    "Bottomleft": {
+      "Name": "reproductive or meaning-oriented",
+      "Type": "question",
+      "Reference": "Which tool would you bring with you?"
+    },
+    "Left": {
+      "Name": "meaning-oriented",
+      "Type": "question",
+      "Reference": "What would you do?"
+    }
+  }
+}
