@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Lega",
+    "\\Lega\\Pages",
+    "\\Lega\\Pages\\Shared",
+    "\\Lega\\wwwroot",
+    "\\Lega\\wwwroot\\css"
   ],
-  "SelectedNode": "\\C:\\Users\\slagt\\Source\\Repos\\Lega",
+  "SelectedNode": "\\Lega\\Pages\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
