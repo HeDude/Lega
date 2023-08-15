@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lega", "Lega.csproj", "{DC7E40F9-5B7A-4A17-B514-1EF030432C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7E40F9-5B7A-4A17-B514-1EF030432C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7E40F9-5B7A-4A17-B514-1EF030432C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7E40F9-5B7A-4A17-B514-1EF030432C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7E40F9-5B7A-4A17-B514-1EF030432C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DB0D434-8520-4214-A9E5-B2893045C260}
+	EndGlobalSection
+EndGlobal
