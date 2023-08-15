@@ -1,0 +1,7 @@
+<config>
+    <servicesURL>https://flowlab.io</servicesURL>
+    <assetURL>https://flowlab.io</assetURL>
+    <audioAssetURL>https://s3.amazonaws.com/flowlab-io/audio</audioAssetURL>
+    <audioUploadURL>https://s3.amazonaws.com/flowlab-io-user-audio</audioUploadURL>
+</config>
+  
