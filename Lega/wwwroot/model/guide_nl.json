@@ -1,0 +1,139 @@
+{
+    "socrates": {
+        "name": "Socrates",
+        "birth": "&cong; 470 BC",
+        "death": "399 BC",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Socrates"
+    },
+    "hegel": {
+        "name": "George Wilhelm Friedrich Hegel",
+        "birth": "1770",
+        "death": "1831",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
+    },
+    "aristoteles": {
+        "name": "Aristoteles",
+        "birth": "384 BC",
+        "death": "322 BC",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Aristoteles"
+    },
+    "boeddha": {
+        "name": "Boeddha",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Gautama_Boeddha",
+        "birth": "&cong; 480 BC",
+        "death": "&cong; 400 BC"
+    },
+    "christus": {
+        "name": "Jezus Christus",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Jezus_(historisch)",
+        "birth": "&cong; 5 BC",
+        "death": "&cong; 30"
+    },
+    "confucius": {
+        "name": "Confucius",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Confucius",
+        "birth": "551 BC",
+        "death": "479 BC"
+    },
+    "copernicus": {
+        "name": "Nicolaus Copernicus",
+        "birth": "1473",
+        "death": "1543",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Nicolaus_Copernicus"
+    },
+    "democritus": {
+        "name": "Democritus",
+        "birth": "&cong; 460 BC",
+        "death": "370 BC",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Democritus"
+    },
+    "descartes": {
+        "name": "Ren&eacute; Descartes",
+        "birth": "1596",
+        "death": "1650",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Ren%C3%A9_Descartes"
+    },
+    "diogenes": {
+        "name": "Diogenes van Sinope",
+        "birth": "400 BC",
+        "death": "325 BC",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Diogenes_van_Sinope"
+    },
+    "einstein": {
+        "name": "Albert Einstein",
+        "birth": "1879",
+        "death": "1955",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Albert_Einstein"
+    },
+    "erasmus": {
+        "name": "Desiderius Erasmus",
+        "birth": "1466",
+        "death": "1536",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Desiderius_Erasmus"
+    },
+    "galilei": {
+        "name": "Galileo Galilei",
+        "birth": "1564",
+        "death": "1642",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Galileo_Galilei"
+    },
+    "laozi": {
+        "name": "Laozi",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Laozi",
+        "birth": "604 BC",
+        "death": "507 BC"
+    },
+    "leibniz": {
+        "name": "Gottfried Wilhelm von Leibniz",
+        "birth": "1646",
+        "death": "1716",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+    },
+    "newton": {
+        "name": "Sir Isaac Newton",
+        "birth": "1642",
+        "death": "1727",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Isaac_Newton"
+    },
+    "machiavelli": {
+        "name": "Niccol&ograve; Machiavelli",
+        "birth": "1467",
+        "death": "1527",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli"
+    },
+    "plato": {
+        "name": "Plato",
+        "birth": "&cong; 427 BC",
+        "death": "347 BC",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Plato"
+    },
+    "pythagoras": {
+        "name": "Pythagoras van Samos",
+        "birth": "&cong; 570 BC",
+        "death": "&cong; 480 BC",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Pythagoras"
+    },
+    "spinoza": {
+        "name": "Benedict de Spinoza",
+        "birth": "1632",
+        "death": "1677",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Baruch_Spinoza"
+    },
+    "thales": {
+        "name": "Thales van Milete",
+        "birth": "&cong; 620 BC",
+        "death": "&cong; 540 BC",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Thales"
+    },
+    "thomas": {
+        "name": "Sint Thomas van Aquino",
+        "birth": "1225",
+        "death": "1274",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Thomas_van_Aquino"
+    },
+    "vyasa": {
+        "name": "Vy&atilde;sa",
+        "wikipedia": "https://nl.wikipedia.org/wiki/Bhagavad_Gita",
+        "birth": "&cong; 3000 BC"
+    }
+}
