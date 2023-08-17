@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WXld1p2oSvyuoX06oFhyHFizhUu/Cuz/PkLdWVF9hYI=",
+  "Hash": "n9PESbuZqf/bZjtWTwNs6HcAWfZRj1ycSVI4pSfRh9M=",
   "Source": "Lega",
   "BasePath": "_content/Lega",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\socrates.svg",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "img/socrates.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\socrates.svg"
+    },
+    {
       "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\wikipedia.svg",
       "SourceId": "Lega",
       "SourceType": "Discovered",
@@ -134,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\socrates.js",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "js/socrates.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\socrates.js"
     },
     {
       "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -1137,6 +1171,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\model\\guide_nl.json"
+    },
+    {
+      "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\socrates_en.json",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "model/socrates_en.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\model\\socrates_en.json"
+    },
+    {
+      "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\socrates_nl.json",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "model/socrates_nl.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\model\\socrates_nl.json"
     }
   ]
 }

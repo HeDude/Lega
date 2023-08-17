@@ -4,3 +4,27 @@
     ViewData["Title"] = "Socrates";
 }
 <h1>Socrates</h1>
+<div class="socratic_explanation">
+    <h2>The Socratic Method</h2>
+    <p>
+        Welcome to a journey of self-exploration, guided by the ancient wisdom of Socrates. The Socratic method, a hallmark of Western philosophy, is a process of questioning designed to expose contradictions in one's beliefs, encouraging the deep introspection needed to arrive at valid and universal truths. By engaging in this dialogue, you're embarking on a quest to better understand yourself and the world around you. Remember, as Socrates famously said, "The unexamined life is not worth living."
+    </p>
+</div>
+
+<div class="socrates_container">
+    <!-- Element to display the question title -->
+    <div id="questionTitle" class="question_title"></div>
+
+    <!-- 2x2 Button Grid -->
+    <div class="button_grid">
+        <div class="button_row">
+            <button id="btn1" class="answer_button">Button 1</button>
+            <button id="btn2" class="answer_button">Button 2</button>
+        </div>
+        <div class="button_row">
+            <button id="btn3" class="answer_button">Button 3</button>
+            <button id="btn4" class="answer_button">Button 4</button>
+        </div>
+    </div>
+</div>
+<script src="~/js/socrates.js" asp-append-version="true"></script>
