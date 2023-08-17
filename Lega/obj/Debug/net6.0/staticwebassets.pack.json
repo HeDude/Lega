@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\socrates.svg",
+      "PackagePath": "staticwebassets\\img\\socrates.svg"
+    },
+    {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\wikipedia.svg",
       "PackagePath": "staticwebassets\\img\\wikipedia.svg"
     },
@@ -23,6 +27,10 @@
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\socrates.js",
+      "PackagePath": "staticwebassets\\js\\socrates.js"
     },
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -259,6 +267,14 @@
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\guide_nl.json",
       "PackagePath": "staticwebassets\\model\\guide_nl.json"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\socrates_en.json",
+      "PackagePath": "staticwebassets\\model\\socrates_en.json"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\socrates_nl.json",
+      "PackagePath": "staticwebassets\\model\\socrates_nl.json"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Lega.Microsoft.AspNetCore.StaticWebAssets.props",
