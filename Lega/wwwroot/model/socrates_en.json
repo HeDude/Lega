@@ -1,0 +1,2304 @@
+{
+  "about_what_may_I_ask_you_something": {
+    "title": "About what may I ask you something",
+    "choice": [
+      {
+        "answer": "Wisdom about you",
+        "response": {
+          "what_is_to_be": 100
+        }
+      },
+      {
+        "answer": "Wisdom about life",
+        "response": {
+          "on_which_topic_may_i_ask_you_a_question": 100
+        }
+      },
+      {
+        "answer": "Wisdom about learning",
+        "response": {
+          "when_is_learning_fun": 100,
+          "what_is_the_benefit_of_smart_learning": 100
+        }
+      }
+    ]
+  },
+  "how_can_i_deal_with_my_fear_for_death": {
+    "title": "How can I deal with my fear for death",
+    "choice": [
+      {
+        "answer": "By being humble. If not everything revolves around you, it's easier to nuance your death.",
+        "response": {
+          "how_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "By reducing your fear",
+        "response": {
+          "how_can_i_reduce_fear": 100
+        }
+      },
+      {
+        "answer": "Accept that death is natural just like any change",
+        "response": {
+          "how_to_accept_things_as_there_are": 100,
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100
+        }
+      }
+    ]
+  },
+  "how_can_i_reduce_fear": {
+    "title": "How can I reduce fear",
+    "choice": [
+      {
+        "answer": "By gradually desensitizing yourself to a particular fear",
+        "response": {
+          "what_is_fear": 100
+        }
+      },
+      {
+        "answer": "By facing the fear while breathing calmly and with a smile",
+        "response": {
+          "what_is_fear": 100,
+          "how_do_you_stay_calm": 100
+        }
+      }
+    ]
+  },
+  "how_can_you_help_other_people": {
+    "title": "How can you help other people",
+    "choice": [
+      {
+        "answer": "By being a shining example yourself",
+        "response": {
+          "what_connects_us_as_human_beings": 100
+        }
+      },
+      {
+        "answer": "By being humble",
+        "response": {
+          "how_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "By being happy yourself",
+        "response": {
+          "what_is_the_origin_of_happiness": 100,
+          "what_prevents_you_from_being_happy": 100
+        }
+      },
+      {
+        "answer": "By listening closely to what they need",
+        "response": {
+          "how_can_you_listen_more_deeply": 100
+        }
+      }
+    ]
+  },
+  "how_can_i_trust_myself": {
+    "title": "How can I trust myself",
+    "choice": [
+      {
+        "answer": "Self-confidence is something you cultivate based on your beliefs, acting on them, and experiencing what you achieve.",
+        "response": {
+          "what_is_faith": 100
+        }
+      },
+      {
+        "answer": "Doubting can also help, for example, to better understand yourself",
+        "response": {
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100
+        }
+      },
+      {
+        "answer": "By searching for the goodness in yourself",
+        "response": {
+          "what_is_good": 100
+        }
+      }
+    ]
+  },
+  "how_can_we_transform_frustration_into_fulfillment": {
+    "title": "How can we transform frustration into fulfillment",
+    "choice": [
+      {
+        "answer": "By staying calm",
+        "response": {
+          "how_do_you_stay_calm": 100,
+          "how_do_you_deal_with_anger": 100
+        }
+      },
+      {
+        "answer": "It's already a lottery to be born on earth as a human right now",
+        "response": {
+          "what_is_life": 100
+        }
+      }
+    ]
+  },
+  "how_do_i_know_if_i_made_the_right_decision": {
+    "title": "How do I know if I made the right decision",
+    "choice": [
+      {
+        "answer": "You don't know; dare to make mistakes with pleasure",
+        "response": {
+          "what_is_knowing": 100
+        }
+      },
+      {
+        "answer": "What seems right today may prove wrong tomorrow",
+        "response": {
+          "how_can_you_be_sure_about_something": 100,
+          "what_is_the_truth": 100
+        }
+      },
+      {
+        "answer": "What one person thinks is right, another may find wrong",
+        "response": {
+          "how_can_you_be_sure_about_something": 100,
+          "what_is_the_truth": 100
+        }
+      },
+      {
+        "answer": "People who think they are always doing good often cause a lot of misery",
+        "response": {
+          "what_is_good": 100,
+          "what_connects_us_as_human_beings": 100,
+          "how_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "Right or wrong?... just do what seems to make you and others happier",
+        "response": {
+          "what_is_good": 100,
+          "what_is_the_origin_of_happiness": 100,
+          "what_prevents_you_from_being_happy": 100
+        }
+      }
+    ]
+  },
+  "what_is_the_best_way_to_face_your_feelings": {
+    "title": "What is the best way to face your feelings",
+    "choice": [
+      {
+        "answer": "By throwing them out",
+        "response": {
+          "what_are_feelings": 100,
+          "why_is_it_wise_to_be_kind": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "By calmly exploring them thoroughly",
+        "response": {
+          "how_to_accept_things_as_there_are": 100,
+          "how_can_you_be_sure_about_something": 100,
+          "how_do_you_stay_calm": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      }
+    ]
+  },
+  "how_can_you_change_your_lifestyle_to_become_more_happy": {
+    "title": "How can you change your lifestyle to become more happy",
+    "choice": [
+      {
+        "answer": "By gathering nice people around you",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "By changing your diet",
+        "response": {
+          "how_do_you_stay_calm": 100,
+          "how_can_you_improve_how_you_feel": 100,
+          "what_makes_you_unhappy": 100,
+          "what_prevents_you_from_being_happy": 100
+        }
+      },
+      {
+        "answer": "By thinking differently about things",
+        "response": {
+          "how_do_you_stay_calm": 100,
+          "how_can_you_improve_how_you_feel": 100,
+          "what_makes_you_unhappy": 100,
+          "why_can_i_sometimes_sleep_poorly_at_night": 100
+        }
+      }
+    ]
+  },
+  "how_can_you_listen_more_deeply": {
+    "title": "How can you listen more deeply",
+    "choice": [
+      {
+        "answer": "First be aware of your own feelings it evokes before you respond",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "By staying calm",
+        "response": {
+          "how_do_you_stay_calm": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "By only responding after a while, after the other person has told their full story",
+        "response": {
+          "how_do_you_stay_calm": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      }
+    ]
+  },
+  "how_can_you_make_peace": {
+    "title": "How can you make peace",
+    "choice": [
+      {
+        "answer": "Listen more closely to the suffering of your enemy",
+        "response": {
+          "how_can_you_listen_more_deeply": 100
+        }
+      },
+      {
+        "answer": "By first reducing your fear of your enemy and then theirs of you",
+        "response": {
+          "how_can_i_reduce_fear": 100,
+          "how_do_you_deal_with_anger": 100
+        }
+      },
+      {
+        "answer": "By admitting that your clumsiness in solving problems has contributed to the suffering of your enemy",
+        "response": {
+          "why_is_it_wise_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "By organizing meetings with your enemies where you are a paragon of a peaceful attitude",
+        "response": {
+          "how_can_you_make_peace": 100
+        }
+      },
+      {
+        "answer": "By looking at what you have in common and amplifying those aspects",
+        "response": {
+          "what_connects_us_as_human_beings": 100
+        }
+      }
+    ]
+  },
+  "how_can_you_be_sure_about_something": {
+    "title": "How can you be sure about something",
+    "choice": [
+      {
+        "answer": "Not really, as it's always a figment of your brain",
+        "response": {
+          "how_to_discover_your_personal_truth": 100,
+          "what_is_the_truth": 100
+        }
+      },
+      {
+        "answer": "If it is proven by scientific research",
+        "response": {
+          "what_is_prove": 100,
+          "what_is_the_truth": 100
+        }
+      },
+      {
+        "answer": "If you've experienced it yourself",
+        "response": {
+          "how_to_discover_your_personal_truth": 100,
+          "what_is_the_truth": 100
+        }
+      }
+    ]
+  },
+  "how_can_you_improve_how_you_feel": {
+    "title": "How can you improve how you feel",
+    "choice": [
+      {
+        "answer": "By becoming calm",
+        "response": {
+          "how_do_you_stay_calm": 100
+        }
+      },
+      {
+        "answer": "By being comfortable",
+        "response": {
+          "what_is_the_origin_of_happiness": 100,
+          "what_makes_you_unhappy": 100,
+          "why_can_i_sometimes_sleep_poorly_at_night": 100
+        }
+      },
+      {
+        "answer": "By eating well",
+        "response": {
+          "what_is_the_origin_of_happiness": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "By the presence of other people",
+        "response": {
+          "how_to_stop_looking_for_other_peoples_approval": 100,
+          "what_makes_you_unhappy": 100
+        }
+      }
+    ]
+  },
+  "how_can_you_understand_why_the_situation_is_as_it_is": {
+    "title": "How can you understand why the situation is as it is",
+    "choice": [
+      {
+        "answer": "By listening better to others and yourself",
+        "response": {
+          "how_can_you_listen_more_deeply": 100
+        }
+      },
+      {
+        "answer": "By accepting that you may find it difficult to understand certain situations",
+        "response": {
+          "how_to_be_humble": 100
+        }
+      }
+    ]
+  },
+  "how_do_you_learn_effective": {
+    "title": "How do you learn effective",
+    "choice": [
+      {
+        "answer": "If you clearly know what you want to learn!",
+        "response": {
+          "how_to_discover_your_personal_truth": 100
+        }
+      },
+      {
+        "answer": "If you learn the right things!",
+        "response": {
+          "what_is_good": 100
+        }
+      }
+    ]
+  },
+  "how_do_you_learn_efficient": {
+    "title": "How do you learn efficient",
+    "choice": [
+      {
+        "answer": "If you learn smartly!",
+        "response": {
+          "what_is_the_benefit_of_smart_learning": 100
+        }
+      },
+      {
+        "answer": "If you learn in the right way!",
+        "response": {
+          "what_is_good": 100
+        }
+      }
+    ]
+  },
+  "how_do_you_know_how_plausible_something_is": {
+    "title": "How do you know how plausible something is",
+    "choice": [
+      {
+        "answer": "You cannot know that!",
+        "response": {
+          "what_do_you_know_for_sure": 100,
+          "what_is_knowing": 100
+        }
+      },
+      {
+        "answer": "How often have you experienced or heard that it's true!",
+        "response": {
+          "what_is_the_truth": 100,
+          "how_to_discover_your_personal_truth": 100
+        }
+      }
+    ]
+  },
+  "how_do_you_know_your_life_is_not_a_dream": {
+    "title": "How do you know your life is not a dream",
+    "choice": [
+      {
+        "answer": "You cannot know that!",
+        "response": {
+          "what_do_you_know_for_sure": 100,
+          "what_is_knowing": 100
+        }
+      },
+      {
+        "answer": "How often have you experienced or heard that this is true!",
+        "response": {
+          "what_is_the_truth": 100,
+          "how_to_discover_your_personal_truth": 100
+        }
+      }
+    ]
+  },
+  "how_do_you_become_happy": {
+    "title": "How do you become happy",
+    "choice": [
+      {
+        "answer": "Happiness is never perfect, but you can become happier",
+        "response": {
+          "what_is_happiness": 100,
+          "what_makes_you_unhappy": 100,
+          "what_prevents_you_from_being_happy": 100
+        }
+      },
+      {
+        "answer": "By adjusting your lifestyle",
+        "response": {
+          "how_can_you_change_your_lifestyle_to_become_more_happy": 100,
+          "what_makes_you_unhappy": 100,
+          "what_prevents_you_from_being_happy": 100
+        }
+      },
+      {
+        "answer": "By helping others",
+        "response": {
+          "how_can_you_help_other_people": 100,
+          "what_makes_you_unhappy": 100
+        }
+      }
+    ]
+  },
+  "how_do_you_deal_with_anger": {
+    "title": "How do you deal with anger",
+    "choice": [
+      {
+        "answer": "By suppressing the anger",
+        "response": {
+          "what_is_the_best_way_to_face_your_feelings": 100,
+          "how_do_you_stay_calm": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "By venting your anger",
+        "response": {
+          "what_is_the_best_way_to_face_your_feelings": 100,
+          "why_is_it_wise_to_be_kind": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "By converting it into understanding for the other person or the situation",
+        "response": {
+          "what_is_the_best_way_to_face_your_feelings": 100,
+          "how_can_you_listen_more_deeply": 100,
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      }
+    ]
+  },
+  "how_do_you_deal_with_sadness": {
+    "title": "How do you deal with sadness",
+    "choice": [
+      {
+        "answer": "By investigating where it comes from",
+        "response": {
+          "what_is_knowing": 100
+        }
+      },
+      {
+        "answer": "By understanding the situation",
+        "response": {
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100
+        }
+      },
+      {
+        "answer": "By seeking comfort from someone else",
+        "response": {
+          "why_do_people_suffer": 100
+        }
+      },
+      {
+        "answer": "By staying calm and embracing the sorrow with a smile",
+        "response": {
+          "how_do_you_stay_calm": 100
+        }
+      },
+      {
+        "answer": "Let it inspire you to reflect on your life and motivate you to improve it",
+        "response": {
+          "what_is_life": 100
+        }
+      }
+    ]
+  },
+  "how_do_you_stop_people_from_using_you": {
+    "title": "How do you stop people from using you",
+    "choice": [
+      {
+        "answer": "Trust more in the capabilities of others",
+        "response": {
+          "what_connects_us_as_human_beings": 100
+        }
+      },
+      {
+        "answer": "Learn to handle disputes or disagreements",
+        "response": {
+          "how_can_you_make_peace": 100
+        }
+      },
+      {
+        "answer": "By becoming less dependent on what others think of you",
+        "response": {
+          "how_to_stop_looking_for_other_peoples_approval": 100
+        }
+      },
+      {
+        "answer": "By treating yourself more lovingly",
+        "response": {
+          "what_is_love": 100
+        }
+      }
+    ]
+  },
+  "how_do_you_stay_calm": {
+    "title": "How do you stay calm",
+    "choice": [
+      {
+        "answer": "By breathing calmly",
+        "response": {
+          "why_breathing_deeply_helps_you_calm_down": 100
+        }
+      },
+      {
+        "answer": "By accepting the situation",
+        "response": {
+          "how_to_accept_things_as_there_are": 100
+        }
+      },
+      {
+        "answer": "Through music",
+        "response": {
+          "how_does_music_influences_your_feelingss": 100
+        }
+      },
+      {
+        "answer": "By watching or listening to water",
+        "response": {
+          "why_does_being_in_nature_makes_us_happy": 100
+        }
+      },
+      {
+        "answer": "By interacting with animals",
+        "response": {
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "By engaging in manual work",
+        "response": {
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "By understanding the situation",
+        "response": {
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100
+        }
+      }
+    ]
+  },
+  "how_does_music_influences_your_feelingss": {
+    "title": "How does music influences your feelingss",
+    "choice": [
+      {
+        "answer": "Through the rhythm and tone",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "Through the lyrics",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "Because music, movement, and emotion are interconnected in our brain",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      }
+    ]
+  },
+  "how_free_are_you_if_your_happiness_depends_on_the_situation_you_are_in": {
+    "title": "How free are you if your happiness depends on the situation you are in",
+    "choice": [
+      {
+        "answer": "It depends on whether you can handle it",
+        "response": {
+          "how_can_i_trust_myself": 100,
+          "what_makes_you_unhappy": 100,
+          "what_prevents_you_from_being_happy": 100
+        }
+      },
+      {
+        "answer": "Reasonably free",
+        "response": {
+          "what_is_freedom": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Somewhat free",
+        "response": {
+          "what_is_freedom": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Not free",
+        "response": {
+          "what_is_freedom": 100,
+          "what_makes_you_unhappy": 100
+        }
+      }
+    ]
+  },
+  "how_free_are_you_if_your_happiness_depends_on_your_own_mental_state": {
+    "title": "How free are you if your happiness depends on your own mental state",
+    "choice": [
+      {
+        "answer": "It depends on whether you can handle it",
+        "response": {
+          "how_can_i_trust_myself": 100,
+          "what_makes_you_unhappy": 100,
+          "what_prevents_you_from_being_happy": 100
+        }
+      },
+      {
+        "answer": "Reasonably free",
+        "response": {
+          "what_is_freedom": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Somewhat free",
+        "response": {
+          "what_is_freedom": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Not free",
+        "response": {
+          "what_is_freedom": 100,
+          "what_makes_you_unhappy": 100
+        }
+      }
+    ]
+  },
+  "how_to_accept_things_as_there_are": {
+    "title": "How to accept things as there are",
+    "choice": [
+      {
+        "answer": "By understanding the situation",
+        "response": {
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100
+        }
+      },
+      {
+        "answer": "Believe that, even if you sometimes don't understand how, it's still good for you",
+        "response": {
+          "what_is_faith": 100,
+          "what_is_good": 100,
+          "what_is_life": 100
+        }
+      }
+    ]
+  },
+  "how_to_be_humble": {
+    "title": "How to be humble",
+    "choice": [
+      {
+        "answer": "By valuing peace over being right",
+        "response": {
+          "how_can_you_make_peace": 100
+        }
+      },
+      {
+        "answer": "By walking around and claiming to be modest",
+        "response": {
+          "why_should_you_showoff_your_good_deeds": 100
+        }
+      },
+      {
+        "answer": "By not talking too much, but listening more",
+        "response": {
+          "how_can_you_listen_more_deeply": 100
+        }
+      }
+    ]
+  },
+  "how_to_discover_your_personal_truth": {
+    "title": "How to discover your personal truth",
+    "choice": [
+      {
+        "answer": "By exploring what you find most valuable",
+        "response": {
+          "how_do_you_become_happy": 100
+        }
+      },
+      {
+        "answer": "By becoming calm and experiencing what's going on inside you",
+        "response": {
+          "how_do_you_stay_calm": 100
+        }
+      }
+    ]
+  },
+  "how_to_handle_your_brain": {
+    "title": "How to handle your brain",
+    "choice": [
+      {
+        "answer": "Ensuring the brain is calm",
+        "response": {
+          "how_do_you_stay_calm": 100
+        }
+      },
+      {
+        "answer": "Discovering which thoughts, feelings, and reactions make you happy",
+        "response": {
+          "how_do_you_become_happy": 100,
+          "what_makes_you_unhappy": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "Thoroughly examining thoughts and feelings before doing anything",
+        "response": {
+          "what_are_feelings": 100,
+          "how_to_discover_your_personal_truth": 100
+        }
+      }
+    ]
+  },
+  "how_to_improve_your_motivation": {
+    "title": "How to improve your motivation",
+    "choice": [
+      {
+        "answer": "By following your heart",
+        "response": {
+          "how_to_discover_your_personal_truth": 100,
+          "what_keeps_you_from_doing_now_what_you_wish_most": 100
+        }
+      },
+      {
+        "answer": "Work together with like-minded people",
+        "response": {
+          "what_connects_us_as_human_beings": 100
+        }
+      },
+      {
+        "answer": "By having a good time",
+        "response": {
+          "what_connects_us_as_human_beings": 100
+        }
+      },
+      {
+        "answer": "By increasing your chances of success",
+        "response": {
+          "what_would_you_do_at_this_moment_if_you_had_just_one_day_to_live": 100
+        }
+      }
+    ]
+  },
+  "how_to_reach_a_consensus": {
+    "title": "How to reach a consensus",
+    "choice": [
+      {
+        "answer": "By understanding the decision-making process through consensus",
+        "response": {
+          "what_are_the_benefits_of_reaching_consensus": 100,
+          "how_do_i_know_if_i_made_the_right_decision": 100
+        }
+      },
+      {
+        "answer": "By working on a solution that is good for everyone",
+        "response": {
+          "what_is_good": 100
+        }
+      }
+    ]
+  },
+  "how_to_stop_looking_for_other_peoples_approval": {
+    "title": "How to stop looking for other peoples approval",
+    "choice": [
+      {
+        "answer": "Ensure you seek out situations where others don't judge you",
+        "response": {
+          "how_free_are_you_if_your_happiness_depends_on_the_situation_you_are_in": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "By understanding that what is beautiful for one might not be for another",
+        "response": {
+          "how_to_discover_your_personal_truth": 100
+        }
+      },
+      {
+        "answer": "By having deep contact and firmly sticking to your passion and beliefs",
+        "response": {
+          "how_to_discover_your_personal_truth": 100
+        }
+      },
+      {
+        "answer": "By realizing that you have every right to be here - just as you are - like everyone else",
+        "response": {
+          "how_can_i_trust_myself": 100
+        }
+      },
+      {
+        "answer": "By deeply and honestly examining whether what you're doing yields what you desire",
+        "response": {
+          "why_is_it_wise_to_be_as_honest_as_possible": 100
+        }
+      }
+    ]
+  },
+  "on_which_topic_may_i_ask_you_a_question": {
+    "title": "On which topic may I ask you a question",
+    "choice": [
+      {
+        "answer": "Freedom",
+        "response": {
+          "how_do_you_stop_people_from_using_you": 100,
+          "what_would_you_do_at_this_moment_if_you_had_just_one_day_to_live": 100,
+          "how_to_stop_looking_for_other_peoples_approval": 100
+        }
+      },
+      {
+        "answer": "Happiness",
+        "response": {
+          "what_is_happiness": 100,
+          "what_is_the_origin_of_happiness": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Wisdom",
+        "response": {
+          "what_is_the_truth": 100,
+          "what_is_wisdom": 100,
+          "why_is_it_wise_to_be_humble": 100,
+          "why_is_it_wise_to_be_kind": 100
+        }
+      },
+      {
+        "answer": "Peace",
+        "response": {
+          "how_can_you_make_peace": 100,
+          "what_to_do_if_someone_makes_fun_of_you_in_front_of_others": 100,
+          "what_connects_us_as_human_beings": 100
+        }
+      },
+      {
+        "answer": "Being",
+        "response": {
+          "what_is_life": 100,
+          "what_is_to_be": 100,
+          "what_is_not_to_be": 100,
+          "how_do_you_know_your_life_is_not_a_dream": 100,
+          "how_can_i_trust_myself": 100
+        }
+      },
+      {
+        "answer": "Suffering",
+        "response": {
+          "why_do_people_suffer": 100,
+          "what_is_to_be": 100,
+          "what_is_not_to_be": 100,
+          "how_can_we_transform_frustration_into_fulfillment": 100
+        }
+      },
+      {
+        "answer": "Feelings",
+        "response": {
+          "how_do_you_deal_with_sadness": 100,
+          "who_do_i_sometime_cry_without_reason": 100,
+          "how_can_i_deal_with_my_fear_for_death": 100
+        }
+      }
+    ]
+  },
+  "what_are_feelings": {
+    "title": "What are feelings",
+    "choice": [
+      {
+        "answer": "Something to help you determine what is good or not",
+        "response": {
+          "what_is_good": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "Brain interpretations of instinctive physical reactions",
+        "response": {
+          "what_is_instinct": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      }
+    ]
+  },
+  "what_connects_us_as_human_beings": {
+    "title": "What connects us as human beings",
+    "choice": [
+      {
+        "answer": "Wanting to be happy",
+        "response": {
+          "what_is_happiness": 100,
+          "how_do_you_become_happy": 100,
+          "what_is_the_origin_of_happiness": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "The most complex brain encountered in nature",
+        "response": {
+          "how_to_handle_your_brain": 100
+        }
+      }
+    ]
+  },
+  "what_do_you_need_to_achieve_your_goals": {
+    "title": "What do you need to achieve your goals",
+    "choice": [
+      {
+        "answer": "The same as consciousness",
+        "response": {
+          "what_is_conscience": 100
+        }
+      },
+      {
+        "answer": "The same as conscience",
+        "response": {
+          "what_is_morality": 100
+        }
+      }
+    ]
+  },
+  "what_is_awareness": {
+    "title": "What is awareness",
+    "choice": [
+      {
+        "answer": "The same as consciousness",
+        "response": {
+          "what_is_conscience": 100
+        }
+      },
+      {
+        "answer": "The same as conscience",
+        "response": {
+          "what_is_morality": 100
+        }
+      }
+    ]
+  },
+  "what_is_conscience": {
+    "title": "What is conscience",
+    "choice": [
+      {
+        "answer": "The same as conscience",
+        "response": {
+          "what_is_morality": 100
+        }
+      },
+      {
+        "answer": "The same as vigilance",
+        "response": {
+          "what_is_awareness": 100
+        }
+      }
+    ]
+  },
+  "what_is_danger": {
+    "title": "What is danger",
+    "choice": [
+      {
+        "answer": "The chance that you or someone else will die",
+        "response": {
+          "how_can_you_be_sure_about_something": 100,
+          "how_can_i_deal_with_my_fear_for_death": 100
+        }
+      },
+      {
+        "answer": "The chance that something bad will happen",
+        "response": {
+          "how_can_you_be_sure_about_something": 100,
+          "what_is_good": 100
+        }
+      }
+    ]
+  },
+  "what_is_doctrine": {
+    "title": "What is doctrine",
+    "choice": [
+      {
+        "answer": "A collection of statements that are not up for debate",
+        "response": {
+          "how_can_you_be_sure_about_something": 100
+        }
+      },
+      {
+        "answer": "A rock-solid image of the ideal society",
+        "response": {
+          "what_is_the_truth": 100
+        }
+      }
+    ]
+  },
+  "what_is_faith": {
+    "title": "What is faith",
+    "choice": [
+      {
+        "answer": "Complete trust in something or someone",
+        "response": {
+          "how_can_i_trust_myself": 100
+        }
+      },
+      {
+        "answer": "Religious or spiritual beliefs",
+        "response": {
+          "what_is_religion": 100
+        }
+      }
+    ]
+  },
+  "what_is_fear": {
+    "title": "What is fear",
+    "choice": [
+      {
+        "answer": "A feeling",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "Instinct trying to protect you from dangerous situations",
+        "response": {
+          "what_is_instinct": 100,
+          "what_is_danger": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      }
+    ]
+  },
+  "what_is_freedom": {
+    "title": "What is freedom",
+    "choice": [
+      {
+        "answer": "A feeling",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "That you are not hindered by the outside world in your actions, speech or thinking",
+        "response": {
+          "what_is_outside_you": 100
+        }
+      }
+    ]
+  },
+  "what_is_good": {
+    "title": "What is good",
+    "choice": [
+      {
+        "answer": "Something that gives you a positive feeling",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "Something that helps others and yourself",
+        "response": {
+          "how_can_you_help_other_people": 100
+        }
+      }
+    ]
+  },
+  "what_is_happiness": {
+    "title": "What is happiness",
+    "choice": [
+      {
+        "answer": "Creating satisfaction in life",
+        "response": {
+          "what_is_life": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Having a good life",
+        "response": {
+          "what_is_good": 100,
+          "what_is_life": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Peace of mind",
+        "response": {
+          "how_do_you_stay_calm": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Acceptance and embracing everything you feel, experience, and learn",
+        "response": {
+          "how_to_accept_things_as_there_are": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Having a pleasant life",
+        "response": {
+          "what_is_life": 100,
+          "what_makes_you_unhappy": 100
+        }
+      }
+    ]
+  },
+  "what_is_instinct": {
+    "title": "What is instinct",
+    "choice": [
+      {
+        "answer": "An innate automatic reaction to something from outside",
+        "response": {
+          "what_is_outside_you": 100
+        }
+      },
+      {
+        "answer": "Self-preservation, reproductive drive, or social pressure",
+        "response": {
+          "how_to_stop_looking_for_other_peoples_approval": 100
+        }
+      }
+    ]
+  },
+  "what_is_knowing": {
+    "title": "What is knowing",
+    "choice": [
+      {
+        "answer": "When you can demonstrate something",
+        "response": {
+          "what_is_prove": 100
+        }
+      },
+      {
+        "answer": "The truth",
+        "response": {
+          "what_is_the_truth": 100
+        }
+      },
+      {
+        "answer": "There is no knowing, everything is an assumption",
+        "response": {
+          "what_is_faith": 100
+        }
+      }
+    ]
+  },
+  "what_is_life": {
+    "title": "What is life",
+    "choice": [
+      {
+        "answer": "The opposite of death",
+        "response": {
+          "how_can_i_deal_with_my_fear_for_death": 100
+        }
+      },
+      {
+        "answer": "Preparing for death",
+        "response": {
+          "how_can_i_deal_with_my_fear_for_death": 100
+        }
+      },
+      {
+        "answer": "Being",
+        "response": {
+          "what_is_to_be": 100,
+          "what_is_not_to_be": 100
+        }
+      }
+    ]
+  },
+  "what_is_love": {
+    "title": "What is love",
+    "choice": [
+      {
+        "answer": "Helping other people",
+        "response": {
+          "how_can_you_help_other_people": 100
+        }
+      },
+      {
+        "answer": "Wanting to be nice to others",
+        "response": {
+          "why_is_it_wise_to_be_kind": 100,
+          "why_do_people_hurt_each_other": 100
+        }
+      }
+    ]
+  },
+  "what_is_mythology": {
+    "title": "What is mythology",
+    "choice": [
+      {
+        "answer": "Stories and ideas about life's questions",
+        "response": {
+          "on_which_topic_may_i_ask_you_a_question": 100,
+          "what_is_life": 100
+        }
+      },
+      {
+        "answer": "The truth for a group of people",
+        "response": {
+          "what_is_the_truth": 100
+        }
+      }
+    ]
+  },
+  "what_is_prove": {
+    "title": "What is prove",
+    "choice": [
+      {
+        "answer": "If something has been found that you are sure is true",
+        "response": {
+          "what_is_the_truth": 100
+        }
+      },
+      {
+        "answer": "Proving the truth through measurements and arguments",
+        "response": {
+          "what_is_the_truth": 100
+        }
+      }
+    ]
+  },
+  "what_is_religion": {
+    "title": "What is religion",
+    "choice": [
+      {
+        "answer": "Joint rituals arising from tradition, mythology, doctrines, and spirituality",
+        "response": {
+          "what_connects_us_as_human_beings": 100,
+          "what_is_spirituality": 100,
+          "what_is_tradition": 100,
+          "what_is_doctrine": 100,
+          "what_is_mythology": 100
+        }
+      },
+      {
+        "answer": "Someone's personal truth that gives direction to their life",
+        "response": {
+          "what_is_the_truth": 100,
+          "what_is_life": 100,
+          "how_to_discover_your_personal_truth": 100
+        }
+      }
+    ]
+  },
+  "what_is_spirituality": {
+    "title": "What is spirituality",
+    "choice": [
+      {
+        "answer": "Consciousness",
+        "response": {
+          "what_is_conscience": 100
+        }
+      },
+      {
+        "answer": "Religion",
+        "response": {
+          "what_is_religion": 100
+        }
+      },
+      {
+        "answer": "Belief in the soul",
+        "response": {
+          "what_is_the_soul": 100,
+          "what_is_faith": 100
+        }
+      }
+    ]
+  },
+  "what_is_tradition": {
+    "title": "What is tradition",
+    "choice": [
+      {
+        "answer": "A custom or habit that is passed from one generation to another",
+        "response": {
+          "what_connects_us_as_human_beings": 100
+        }
+      },
+      {
+        "answer": "A way to connect people with each other",
+        "response": {
+          "what_connects_us_as_human_beings": 100
+        }
+      }
+    ]
+  },
+  "what_do_you_know_for_sure": {
+    "title": "What do you know for sure",
+    "choice": [
+      {
+        "answer": "You are certain that you know nothing",
+        "response": {
+          "what_is_knowing": 100
+        }
+      },
+      {
+        "answer": "The truth",
+        "response": {
+          "what_is_the_truth": 100
+        }
+      }
+    ]
+  },
+  "what_is_morality": {
+    "title": "What is morality",
+    "choice": [
+      {
+        "answer": "The same as consciousness",
+        "response": {
+          "what_is_conscience": 100
+        }
+      },
+      {
+        "answer": "Aanvoelen wat goed en fout is",
+        "response": {
+          "what_is_good": 100
+        }
+      },
+      {
+        "answer": "The same as vigilance",
+        "response": {
+          "what_is_awareness": 100
+        }
+      }
+    ]
+  },
+  "what_is_outside_you": {
+    "title": "What is outside you",
+    "choice": [
+      {
+        "answer": "Outside my body",
+        "response": {
+          "would_you_loose_your_essence_if_we_cut_off_your_arm": 100,
+          "how_much_more_are_you_yourself_than_when_you_were_still_young": 100
+        }
+      },
+      {
+        "answer": "My essence is not physical, unlimited in space or time, so there is no you or me",
+        "response": {
+          "what_is_not_to_be": 100,
+          "what_is_to_be": 100
+        }
+      }
+    ]
+  },
+  "what_is_reflecting": {
+    "title": "What is reflecting",
+    "choice": [
+      {
+        "answer": "What you are doing right now",
+        "response": {
+          "what_is_conscience": 100
+        }
+      },
+      {
+        "answer": "The deepest way of thinking",
+        "response": {
+          "what_are_feelings": 100
+        }
+      },
+      {
+        "answer": "Looking back on something that has happened",
+        "response": {
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100
+        }
+      }
+    ]
+  },
+  "what_is_the_benefit_of_smart_learning": {
+    "title": "What is the benefit of smart learning",
+    "choice": [
+      {
+        "answer": "Pleasure",
+        "response": {
+          "when_is_learning_fun": 100
+        }
+      },
+      {
+        "answer": "Reflection",
+        "response": {
+          "what_is_reflecting": 100
+        }
+      },
+      {
+        "answer": "Motivation",
+        "response": {
+          "how_to_improve_your_motivation": 100
+        }
+      },
+      {
+        "answer": "Happiness",
+        "response": {
+          "what_is_happiness": 100,
+          "how_do_you_become_happy": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Passion",
+        "response": {
+          "how_to_discover_your_personal_truth": 100
+        }
+      },
+      {
+        "answer": "Creativity",
+        "response": {
+          "what_is_creativity": 100
+        }
+      },
+      {
+        "answer": "Success",
+        "response": {
+          "what_keeps_you_from_doing_now_what_you_wish_most": 100,
+          "what_would_you_like_to_achieve_in_the_future": 100
+        }
+      }
+    ]
+  },
+  "what_is_the_origin_of_happiness": {
+    "title": "What is the origin of happiness",
+    "choice": [
+      {
+        "answer": "From money",
+        "response": {
+          "what_are_feelings": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "It varies from person to person",
+        "response": {
+          "what_connects_us_as_human_beings": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Happiness is not something tangible, it's embracing and accepting everything that is, without judgment",
+        "response": {
+          "how_to_accept_things_as_there_are": 100,
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100
+        }
+      },
+      {
+        "answer": "Happiness depends on the situation I am in",
+        "response": {
+          "how_free_are_you_if_your_happiness_depends_on_the_situation_you_are_in": 100,
+          "what_is_outside_you": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Happiness arises from within myself",
+        "response": {
+          "how_free_are_you_if_your_happiness_depends_on_your_own_mental_state": 100,
+          "what_is_within_you": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "From helping others",
+        "response": {
+          "how_can_you_help_other_people": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "It depends on what you mean by happiness",
+        "response": {
+          "what_is_happiness": 100,
+          "what_makes_you_unhappy": 100
+        }
+      }
+    ]
+  },
+  "what_are_the_benefits_of_reaching_consensus": {
+    "title": "What are the benefits of reaching consensus",
+    "choice": [
+      {
+        "answer": "No decision is made against someone's will",
+        "response": {
+          "why_is_it_wise_to_be_kind": 100,
+          "how_do_i_know_if_i_made_the_right_decision": 100
+        }
+      },
+      {
+        "answer": "Through discussion, you create mutual understanding and bridge differences",
+        "response": {
+          "what_connects_us_as_human_beings": 100
+        }
+      }
+    ]
+  },
+  "what_is_creativity": {
+    "title": "What is creativity",
+    "choice": [
+      {
+        "answer": "Your ability to create something new",
+        "response": {
+          "what_connects_us_as_human_beings": 100
+        }
+      },
+      {
+        "answer": "Using imagination to view the world in your own unique way",
+        "response": {
+          "how_to_discover_your_personal_truth": 100
+        }
+      }
+    ]
+  },
+  "what_is_to_be": {
+    "title": "What is to be",
+    "choice": [
+      {
+        "answer": "Your thinking",
+        "response": {
+          "what_are_feelings": 100
+        }
+      },
+      {
+        "answer": "Your body",
+        "response": {
+          "what_is_life": 100,
+          "what_is_outside_you": 100
+        }
+      }
+    ]
+  },
+  "what_is_not_to_be": {
+    "title": "What is not to be",
+    "choice": [
+      {
+        "answer": "Het omgekeerde van zijn",
+        "response": {
+          "what_is_to_be": 100
+        }
+      },
+      {
+        "answer": "Your body",
+        "response": {
+          "what_is_life": 100,
+          "what_is_outside_you": 100
+        }
+      }
+    ]
+  },
+  "what_is_the_soul": {
+    "title": "What is the soul",
+    "choice": [
+      {
+        "answer": "Het zijn",
+        "response": {
+          "what_is_to_be": 100
+        }
+      },
+      {
+        "answer": "The same as consciousness",
+        "response": {
+          "what_is_conscience": 100
+        }
+      },
+      {
+        "answer": "The same as conscience",
+        "response": {
+          "what_is_morality": 100
+        }
+      }
+    ]
+  },
+  "what_is_the_truth": {
+    "title": "What is the truth",
+    "choice": [
+      {
+        "answer": "Something most people agree on",
+        "response": {
+          "how_to_reach_a_consensus": 100
+        }
+      },
+      {
+        "answer": "Everyone has their own truth",
+        "response": {
+          "how_to_discover_your_personal_truth": 100
+        }
+      },
+      {
+        "answer": "Absolute certainty",
+        "response": {
+          "how_can_you_be_sure_about_something": 100
+        }
+      },
+      {
+        "answer": "Something you have observed",
+        "response": {
+          "how_can_you_be_sure_about_something": 100
+        }
+      },
+      {
+        "answer": "The opposite of a lie",
+        "response": {
+          "why_do_people_lie": 100
+        }
+      },
+      {
+        "answer": "That which, given our best knowledge, is very likely",
+        "response": {
+          "how_do_you_know_how_plausible_something_is": 100
+        }
+      }
+    ]
+  },
+  "what_is_wisdom": {
+    "title": "What is wisdom",
+    "choice": [
+      {
+        "answer": "Intelligence",
+        "response": {
+          "what_is_knowing": 100
+        }
+      },
+      {
+        "answer": "Knowing the truth",
+        "response": {
+          "what_is_the_truth": 100
+        }
+      },
+      {
+        "answer": "Being aware of yourself and your surroundings",
+        "response": {
+          "what_is_conscience": 100
+        }
+      }
+    ]
+  },
+  "what_is_within_you": {
+    "title": "What is within you",
+    "choice": [
+      {
+        "answer": "The opposite of outside yourself",
+        "response": {
+          "what_is_outside_you": 100
+        }
+      },
+      {
+        "answer": "A bunch of organs",
+        "response": {
+          "what_is_outside_you": 100
+        }
+      },
+      {
+        "answer": "The soul",
+        "response": {
+          "what_is_to_be": 100,
+          "what_is_the_soul": 100
+        }
+      }
+    ]
+  },
+  "what_keeps_you_from_doing_now_what_you_wish_most": {
+    "title": "What keeps you from doing now what you wish most",
+    "choice": [
+      {
+        "answer": "Fear",
+        "response": {
+          "what_is_fear": 100
+        }
+      },
+      {
+        "answer": "I don't know what I would like to do most",
+        "response": {
+          "how_to_discover_your_personal_truth": 100
+        }
+      }
+    ]
+  },
+  "what_makes_you_unhappy": {
+    "title": "What makes you unhappy",
+    "choice": [
+      {
+        "answer": "Fear",
+        "response": {
+          "what_is_fear": 100
+        }
+      },
+      {
+        "answer": "A wrong lifestyle",
+        "response": {
+          "how_can_you_change_your_lifestyle_to_become_more_happy": 100,
+          "why_do_people_hurt_each_other": 100
+        }
+      },
+      {
+        "answer": "Being alone",
+        "response": {
+          "how_to_stop_looking_for_other_peoples_approval": 100
+        }
+      },
+      {
+        "answer": "When there is no comfort",
+        "response": {
+          "what_is_the_origin_of_happiness": 100
+        }
+      }
+    ]
+  },
+  "what_prevents_you_from_being_happy": {
+    "title": "What prevents you from being happy",
+    "choice": [
+      {
+        "answer": "Your lifestyle",
+        "response": {
+          "how_can_you_change_your_lifestyle_to_become_more_happy": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Not knowing how to be happy",
+        "response": {
+          "what_is_knowing": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Fear of change",
+        "response": {
+          "what_is_fear": 100,
+          "what_makes_you_unhappy": 100
+        }
+      }
+    ]
+  },
+  "what_to_do_if_someone_makes_fun_of_you_in_front_of_others": {
+    "title": "What to do if someone makes fun of you in front of others",
+    "choice": [
+      {
+        "answer": "Laugh along!",
+        "response": {
+          "how_do_you_stay_calm": 100
+        }
+      },
+      {
+        "answer": "Realizing that the other person might still need to learn what's funny!",
+        "response": {
+          "how_can_you_help_other_people": 100
+        }
+      }
+    ]
+  },
+  "what_would_you_do_at_this_moment_if_you_had_just_one_day_to_live": {
+    "title": "What would you do at this moment if you had just one day to live",
+    "choice": [
+      {
+        "answer": "The same",
+        "response": {
+          "what_is_life": 100
+        }
+      },
+      {
+        "answer": "Something else",
+        "response": {
+          "what_keeps_you_from_doing_now_what_you_wish_most": 100
+        }
+      }
+    ]
+  },
+  "what_would_you_like_to_achieve_in_the_future": {
+    "title": "What would you like to achieve in the future",
+    "choice": [
+      {
+        "answer": "Becoming happier",
+        "response": {
+          "what_connects_us_as_human_beings": 100,
+          "what_do_you_need_to_achieve_your_goals": 100
+        }
+      },
+      {
+        "answer": "Success in work or school",
+        "response": {
+          "why_do_you_want_to_achieve_success": 100
+        }
+      }
+    ]
+  },
+  "why_do_people_hurt_each_other": {
+    "title": "Why do people hurt each other",
+    "choice": [
+      {
+        "answer": "Because they are angry at the other",
+        "response": {
+          "how_do_you_deal_with_anger": 100,
+          "why_is_it_wise_to_be_kind": 100
+        }
+      },
+      {
+        "answer": "Because they don't understand each other",
+        "response": {
+          "how_can_you_listen_more_deeply": 100,
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100
+        }
+      },
+      {
+        "answer": "Because they don't feel good about themselves",
+        "response": {
+          "what_is_the_origin_of_happiness": 100,
+          "what_prevents_you_from_being_happy": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "To take revenge",
+        "response": {
+          "why_is_it_wise_to_be_kind": 100,
+          "what_are_feelings": 100
+        }
+      }
+    ]
+  },
+  "why_do_you_want_to_achieve_success": {
+    "title": "Why do you want to achieve success",
+    "choice": [
+      {
+        "answer": "To become happier",
+        "response": {
+          "what_is_the_origin_of_happiness": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "Success in work or school",
+        "response": {
+          "why_do_you_want_to_achieve_success": 100
+        }
+      }
+    ]
+  },
+  "when_is_learning_fun": {
+    "title": "When is learning fun",
+    "choice": [
+      {
+        "answer": "If you learn with it what you want to learn!",
+        "response": {
+          "how_do_you_learn_effective": 100
+        }
+      },
+      {
+        "answer": "If you learn good things!",
+        "response": {
+          "how_do_you_learn_effective": 100
+        }
+      },
+      {
+        "answer": "If you learn as quickly and easily as possible!",
+        "response": {
+          "how_do_you_learn_efficient": 100
+        }
+      },
+      {
+        "answer": "If you learn in the right way!",
+        "response": {
+          "how_do_you_learn_efficient": 100
+        }
+      }
+    ]
+  },
+  "why_breathing_deeply_helps_you_calm_down": {
+    "title": "Why breathing deeply helps you calm down",
+    "choice": [
+      {
+        "answer": "Because the brain cells needed for breathing are connected to calm emotions",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "It shifts your attention from the worries in your head to your breathing",
+        "response": {
+          "what_is_awareness": 100,
+          "why_can_i_sometimes_sleep_poorly_at_night": 100
+        }
+      },
+      {
+        "answer": "Because with deep breathing your body feels the same as if you are relaxed",
+        "response": {
+          "how_do_you_become_happy": 100
+        }
+      }
+    ]
+  },
+  "why_does_being_in_nature_makes_us_happy": {
+    "title": "Why does being in nature makes us happy",
+    "choice": [
+      {
+        "answer": "Our instincts recognize something as beautiful if the environment is rich in resources",
+        "response": {
+          "what_is_instinct": 100,
+          "how_can_you_improve_how_you_feel": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "We are then naturally more aware of our surroundings",
+        "response": {
+          "what_is_awareness": 100,
+          "how_can_you_improve_how_you_feel": 100,
+          "what_makes_you_unhappy": 100
+        }
+      },
+      {
+        "answer": "The sounds sound like music to our ears",
+        "response": {
+          "how_does_music_influences_your_feelingss": 100,
+          "how_can_you_improve_how_you_feel": 100,
+          "what_makes_you_unhappy": 100
+        }
+      }
+    ]
+  },
+  "how_much_more_are_you_yourself_than_when_you_were_still_young": {
+    "title": "How much more are you yourself than when you were still young",
+    "choice": [
+      {
+        "answer": "Much more!",
+        "response": {
+          "what_is_to_be": 100
+        }
+      },
+      {
+        "answer": "A little more!",
+        "response": {
+          "what_is_to_be": 100
+        }
+      },
+      {
+        "answer": "Equal!",
+        "response": {
+          "what_is_to_be": 100
+        }
+      },
+      {
+        "answer": "You have become less yourself!",
+        "response": {
+          "what_is_to_be": 100
+        }
+      }
+    ]
+  },
+  "who_am_i": {
+    "title": "Who am i",
+    "choice": []
+  },
+  "who_do_i_sometime_cry_without_reason": {
+    "title": "Who do I sometime cry without reason",
+    "choice": [
+      {
+        "answer": "There is a reason but you haven't realized it yet",
+        "response": {
+          "how_can_you_be_sure_about_something": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "The pain of another has been transferred to you",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      }
+    ]
+  },
+  "why_can_i_sometimes_sleep_poorly_at_night": {
+    "title": "Why can I sometimes sleep poorly at night",
+    "choice": [
+      {
+        "answer": "Because I think too much about things",
+        "response": {
+          "how_to_handle_your_brain": 100
+        }
+      },
+      {
+        "answer": "Because it was too busy during the day",
+        "response": {
+          "how_do_you_stay_calm": 100
+        }
+      },
+      {
+        "answer": "Because I don't feel it's time to sleep",
+        "response": {
+          "what_are_feelings": 100
+        }
+      }
+    ]
+  },
+  "why_do_people_bully": {
+    "title": "Why do people bully",
+    "choice": [
+      {
+        "answer": "To make oneself feel better",
+        "response": {
+          "what_are_feelings": 100
+        }
+      }
+    ]
+  },
+  "why_do_people_force_their_opinions_on_each_other": {
+    "title": "Why do people force their opinions on each other",
+    "choice": [
+      {
+        "answer": "To make oneself feel better",
+        "response": {
+          "what_are_feelings": 100
+        }
+      }
+    ]
+  },
+  "why_do_people_lie": {
+    "title": "Why do people lie",
+    "choice": [
+      {
+        "answer": "To avoid punishment or suffering",
+        "response": {
+          "why_do_people_suffer": 100,
+          "what_connects_us_as_human_beings": 100
+        }
+      },
+      {
+        "answer": "Because they don't know the truth or have forgotten it",
+        "response": {
+          "what_is_the_truth": 100
+        }
+      },
+      {
+        "answer": "To gain the admiration of others",
+        "response": {
+          "how_to_stop_looking_for_other_peoples_approval": 100
+        }
+      }
+    ]
+  },
+  "why_do_people_suffer": {
+    "title": "Why do people suffer",
+    "choice": [
+      {
+        "answer": "Because they don't understand the essence of life",
+        "response": {
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100,
+          "what_is_life": 100
+        }
+      },
+      {
+        "answer": "To stimulate you to continuously improve your life",
+        "response": {
+          "what_is_life": 100
+        }
+      }
+    ]
+  },
+  "why_is_it_important_not_to_judge_others": {
+    "title": "Why is it important not to judge others",
+    "choice": [
+      {
+        "answer": "So that others don't judge you",
+        "response": {
+          "why_is_it_wise_to_be_kind": 100
+        }
+      },
+      {
+        "answer": "Because you also have shortcomings",
+        "response": {
+          "how_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "Because you're not in their shoes and therefore don't understand why they do certain things",
+        "response": {
+          "how_can_you_understand_why_the_situation_is_as_it_is": 100
+        }
+      }
+    ]
+  },
+  "why_is_it_wise_to_be_as_honest_as_possible": {
+    "title": "Why is it wise to be as honest as possible",
+    "choice": [
+      {
+        "answer": "Then you discover and learn to care about who you really are",
+        "response": {
+          "how_can_i_trust_myself": 100
+        }
+      },
+      {
+        "answer": "Then you learn that falling is necessary to get up",
+        "response": {
+          "what_is_the_benefit_of_smart_learning": 100
+        }
+      },
+      {
+        "answer": "You learn to dare to be yourself",
+        "response": {
+          "what_is_to_be": 100
+        }
+      }
+    ]
+  },
+  "why_is_it_wise_to_be_humble": {
+    "title": "Why is it wise to be humble",
+    "choice": [
+      {
+        "answer": "You perform better at work or in school",
+        "response": {
+          "how_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "You have better contact with others",
+        "response": {
+          "how_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "You are calmer",
+        "response": {
+          "how_to_be_humble": 100,
+          "how_do_you_stay_calm": 100
+        }
+      },
+      {
+        "answer": "You are less biased",
+        "response": {
+          "how_to_be_humble": 100,
+          "why_is_it_important_not_to_judge_others": 100
+        }
+      },
+      {
+        "answer": "You are more helpful",
+        "response": {
+          "how_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "You worry less about death",
+        "response": {
+          "how_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "You have a sharper perspective on life and how you could shape it",
+        "response": {
+          "how_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "You are happier",
+        "response": {
+          "how_to_be_humble": 100,
+          "what_is_happiness": 100,
+          "what_makes_you_unhappy": 100,
+          "what_prevents_you_from_being_happy": 100
+        }
+      }
+    ]
+  },
+  "why_is_it_wise_to_be_kind": {
+    "title": "Why is it wise to be kind",
+    "choice": [
+      {
+        "answer": "Then you feel better and have less stress",
+        "response": {
+          "what_are_feelings": 100,
+          "how_can_you_improve_how_you_feel": 100
+        }
+      },
+      {
+        "answer": "If you give love, you receive it back",
+        "response": {
+          "what_is_love": 100
+        }
+      },
+      {
+        "answer": "It makes you healthier and you live longer",
+        "response": {
+          "what_is_life": 100
+        }
+      }
+    ]
+  },
+  "why_should_you_showoff_your_good_deeds": {
+    "title": "Why should you showoff your good deeds",
+    "choice": [
+      {
+        "answer": "You'd better not do that",
+        "response": {
+          "why_is_it_wise_to_be_humble": 100
+        }
+      },
+      {
+        "answer": "So that other people like you more",
+        "response": {
+          "why_is_it_wise_to_be_humble": 100,
+          "what_to_do_if_someone_makes_fun_of_you_in_front_of_others": 100,
+          "how_to_stop_looking_for_other_peoples_approval": 100,
+          "why_is_it_wise_to_be_kind": 100
+        }
+      },
+      {
+        "answer": "So that other people will follow your example",
+        "response": {
+          "why_is_it_wise_to_be_humble": 100,
+          "why_is_it_wise_to_be_kind": 100
+        }
+      }
+    ]
+  },
+  "would_you_loose_your_essence_if_we_cut_off_your_arm": {
+    "title": "Would you loose your essence if we cut off your arm",
+    "choice": [
+      {
+        "answer": "Yes!",
+        "response": {
+          "who_am_i": 100,
+          "what_is_outside_you": 100
+        }
+      },
+      {
+        "answer": "No!",
+        "response": {
+          "who_am_i": 100,
+          "what_is_the_origin_of_happiness": 100
+        }
+      }
+    ]
+  }
+}

@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lega
 build_property.RootNamespace = Lega
-build_property.ProjectDir = D:\repos\Lega\Lega\
+build_property.ProjectDir = C:\Users\slagt\source\repos\Lega\Lega\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\repos\Lega\Lega
+build_property.MSBuildProjectDirectory = C:\Users\slagt\source\repos\Lega\Lega
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/repos/Lega/Lega/Pages/Error.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/Index.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/Magic.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/Magic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFnaWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/Maze.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/Maze.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWF6ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/MeScience.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/MeScience.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVTY2llbmNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/Privacy.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/Socrates.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/Socrates.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29jcmF0ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/_ViewImports.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/_ViewStart.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/Lega/Lega/Pages/Shared/_Layout.cshtml]
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ch3q0h2jjq
