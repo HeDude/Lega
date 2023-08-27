@@ -25,12 +25,12 @@
       "PackagePath": "staticwebassets\\js\\guide.js"
     },
     {
-      "Id": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\js\\interaction.js",
+      "PackagePath": "staticwebassets\\js\\interaction.js"
     },
     {
-      "Id": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\js\\socrates.js",
-      "PackagePath": "staticwebassets\\js\\socrates.js"
+      "Id": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
       "Id": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\lib\\bootstrap\\LICENSE",

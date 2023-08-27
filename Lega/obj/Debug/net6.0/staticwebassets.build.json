@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "or+1BMQOGCJ9o0x8Ptl5mxH83/qAPWCPZc2pFRX65vc=",
+  "Hash": "Srpa2cdQsra33JsRa/otvA8zjQxTcvODrUDPxHhY8pA=",
   "Source": "Lega",
   "BasePath": "_content/Lega",
   "Mode": "Default",
@@ -136,6 +136,23 @@
       "OriginalItemSpec": "wwwroot\\js\\guide.js"
     },
     {
+      "Identity": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\js\\interaction.js",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "js/interaction.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\interaction.js"
+    },
+    {
       "Identity": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\js\\site.js",
       "SourceId": "Lega",
       "SourceType": "Discovered",
@@ -151,23 +168,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
-    },
-    {
-      "Identity": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\js\\socrates.js",
-      "SourceId": "Lega",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\",
-      "BasePath": "_content/Lega",
-      "RelativePath": "js/socrates.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\socrates.js"
     },
     {
       "Identity": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
