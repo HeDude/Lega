@@ -1,139 +1,145 @@
 {
-    "socrates": {
-        "name": "Socrates",
-        "birth": "&cong; 470 BC",
-        "death": "399 BC",
-        "wikipedia": "https://en.wikipedia.org/wiki/Socrates"
-    },
-    "hegel": {
-        "name": "George Wilhelm Friedrich Hegel",
-        "birth": "1770",
-        "death": "1831",
-        "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
-    },
-    "aristoteles": {
-        "name": "Aristoteles",
-        "birth": "384 BC",
-        "death": "322 BC",
-        "wikipedia": "https://en.wikipedia.org/wiki/Aristotle"
-    },
-    "boeddha": {
-        "name": "Buddha",
-        "wikipedia": "https://en.wikipedia.org/wiki/Gautama_Buddha",
-        "birth": "&cong; 480 BC",
-        "death": "&cong; 400 BC"
-    },
-    "christus": {
-        "name": "Jesus Christ",
-        "wikipedia": "https://en.wikipedia.org/wiki/Jesus",
-        "birth": "&cong; 5 BC",
-        "death": "&cong; 30"
-    },
-    "confucius": {
-        "name": "Confucius",
-        "wikipedia": "https://en.wikipedia.org/wiki/Confucius",
-        "birth": "551 BC",
-        "death": "479 BC"
-    },
-    "copernicus": {
-        "name": "Nicolaus Copernicus",
-        "birth": "1473",
-        "death": "1543",
-        "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
-    },
-    "democritus": {
-        "name": "Democritus",
-        "birth": "&cong; 460 BC",
-        "death": "370 BC",
-        "wikipedia": "https://en.wikipedia.org/wiki/Democritus"
-    },
-    "descartes": {
-        "name": "Ren&eacute; Descartes",
-        "birth": "1596",
-        "death": "1650",
-        "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
-    },
-    "diogenes": {
-        "name": "Diogenes of Sinope",
-        "birth": "400 BC",
-        "death": "325 BC",
-        "wikipedia": "https://en.wikipedia.org/wiki/Diogenes"
-    },
-    "einstein": {
-        "name": "Albert Einstein",
-        "birth": "1879",
-        "death": "1955",
-        "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein"
-    },
-    "erasmus": {
-        "name": "Desiderius Erasmus",
-        "birth": "1466",
-        "death": "1536",
-        "wikipedia": "https://en.wikipedia.org/wiki/Desiderius_Erasmus"
-    },
-    "galilei": {
-        "name": "Galileo Galilei",
-        "birth": "1564",
-        "death": "1642",
-        "wikipedia": "https://en.wikipedia.org/wiki/Galileo_Galilei"
-    },
-    "laozi": {
-        "name": "Laozi",
-        "wikipedia": "https://en.wikipedia.org/wiki/Laozi",
-        "birth": "604 BC",
-        "death": "507 BC"
-    },
-    "leibniz": {
-        "name": "Gottfried Wilhelm von Leibniz",
-        "birth": "1646",
-        "death": "1716",
-        "wikipedia": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
-    },
-    "newton": {
-        "name": "Sir Isaac Newton",
-        "birth": "1642",
-        "death": "1727",
-        "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton"
-    },
-    "machiavelli": {
-        "name": "Niccol&ograve; Machiavelli",
-        "birth": "1467",
-        "death": "1527",
-        "wikipedia": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli"
-    },
-    "plato": {
-        "name": "Plato",
-        "birth": "&cong; 427 BC",
-        "death": "347 BC",
-        "wikipedia": "https://en.wikipedia.org/wiki/Plato"
-    },
-    "pythagoras": {
-        "name": "Pythagoras of Samos",
-        "birth": "&cong; 570 BC",
-        "death": "&cong; 480 BC",
-        "wikipedia": "https://en.wikipedia.org/wiki/Pythagoras"
-    },
-    "spinoza": {
-        "name": "Benedict de Spinoza",
-        "birth": "1632",
-        "death": "1677",
-        "wikipedia": "https://en.wikipedia.org/wiki/Baruch_Spinoza"
-    },
-    "thales": {
-        "name": "Thales of Miletus",
-        "birth": "&cong; 620 BC",
-        "death": "&cong; 540 BC",
-        "wikipedia": "https://en.wikipedia.org/wiki/Thales_of_Miletus"
-    },
-    "thomas": {
-        "name": "Saint Thomas Aquinas",
-        "birth": "1225",
-        "death": "1274",
-        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
-    },
-    "vyasa": {
-        "name": "Vyasa",
-        "wikipedia": "https://en.wikipedia.org/wiki/Vyasa",
-        "birth": "&cong; 3000 BC"
-    }
+  "socrates": {
+    "name": "Socrates",
+    "birth": "&cong; 470 BC",
+    "death": "399 BC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Socrates"
+  },
+  "hegel": {
+    "name": "George Wilhelm Friedrich Hegel",
+    "birth": "1770",
+    "death": "1831",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
+  },
+  "aristoteles": {
+    "name": "Aristoteles",
+    "birth": "384 BC",
+    "death": "322 BC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aristotle"
+  },
+  "boeddha": {
+    "name": "Buddha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+    "birth": "&cong; 480 BC",
+    "death": "&cong; 400 BC"
+  },
+  "christus": {
+    "name": "Jesus Christ",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jesus",
+    "birth": "&cong; 5 BC",
+    "death": "&cong; 30"
+  },
+  "confucius": {
+    "name": "Confucius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Confucius",
+    "birth": "551 BC",
+    "death": "479 BC"
+  },
+  "copernicus": {
+    "name": "Nicolaus Copernicus",
+    "birth": "1473",
+    "death": "1543",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+  },
+  "democritus": {
+    "name": "Democritus",
+    "birth": "&cong; 460 BC",
+    "death": "370 BC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Democritus"
+  },
+  "descartes": {
+    "name": "Ren&eacute; Descartes",
+    "birth": "1596",
+    "death": "1650",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
+  },
+  "diogenes": {
+    "name": "Diogenes of Sinope",
+    "birth": "400 BC",
+    "death": "325 BC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diogenes"
+  },
+  "einstein": {
+    "name": "Albert Einstein",
+    "birth": "1879",
+    "death": "1955",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein"
+  },
+  "erasmus": {
+    "name": "Desiderius Erasmus",
+    "birth": "1466",
+    "death": "1536",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desiderius_Erasmus"
+  },
+  "galilei": {
+    "name": "Galileo Galilei",
+    "birth": "1564",
+    "death": "1642",
+    "wikipedia": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+  },
+  "laozi": {
+    "name": "Laozi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laozi",
+    "birth": "604 BC",
+    "death": "507 BC"
+  },
+  "leibniz": {
+    "name": "Gottfried Wilhelm von Leibniz",
+    "birth": "1646",
+    "death": "1716",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+  },
+  "newton": {
+    "name": "Sir Isaac Newton",
+    "birth": "1642",
+    "death": "1727",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton"
+  },
+  "machiavelli": {
+    "name": "Niccol&ograve; Machiavelli",
+    "birth": "1467",
+    "death": "1527",
+    "wikipedia": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli"
+  },
+  "phaedrus": {
+    "name": "Gaius Julius Phaedrus",
+    "birth": "&cong; 15 BC",
+    "death": "&cong; 50 BC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phaedrus_(fabulist)"
+  },
+  "plato": {
+    "name": "Plato",
+    "birth": "&cong; 427 BC",
+    "death": "347 BC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plato"
+  },
+  "pythagoras": {
+    "name": "Pythagoras of Samos",
+    "birth": "&cong; 570 BC",
+    "death": "&cong; 480 BC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pythagoras"
+  },
+  "spinoza": {
+    "name": "Benedict de Spinoza",
+    "birth": "1632",
+    "death": "1677",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baruch_Spinoza"
+  },
+  "thales": {
+    "name": "Thales of Miletus",
+    "birth": "&cong; 620 BC",
+    "death": "&cong; 540 BC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thales_of_Miletus"
+  },
+  "thomas": {
+    "name": "Saint Thomas Aquinas",
+    "birth": "1225",
+    "death": "1274",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+  },
+  "vyasa": {
+    "name": "Vyasa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vyasa",
+    "birth": "&cong; 3000 BC"
+  }
 }
