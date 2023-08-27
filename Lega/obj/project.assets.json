@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\Lega\\Lega\\Lega.csproj",
+      "projectUniqueName": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\Lega.csproj",
       "projectName": "Lega",
-      "projectPath": "D:\\repos\\Lega\\Lega\\Lega.csproj",
+      "projectPath": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\Lega.csproj",
       "packagesPath": "C:\\Users\\slagt\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\Lega\\Lega\\obj\\",
+      "outputPath": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

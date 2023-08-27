@@ -1,0 +1,59 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Phaedrus";
+}
+<div class="guide-section">
+    <h2>Phaedrus' Fables</h2>
+    <p>
+        Welcome to a reflective journey inspired by the fables of Phaedrus. These fables, much like the "Fabeltjeskrant" from the Netherlands, are prompts for introspection. Choose the meaning you perceive in each fable, and embark on a journey through a series of thought-provoking tales.
+    </p>
+    
+    <div class="fable" id="fableText">
+        The Fox and the Grapes.
+    </div>
+    
+    <div class="choices">
+        <div class="choice" onclick="nextFable(1)">It's easy to despise what you cannot have.</div>
+        <div class="choice" onclick="nextFable(2)">Nature has a way of balancing desires.</div>
+        <div class="choice" onclick="nextFable(3)">Not everything we desire is good for us.</div>
+        <div class="choice" onclick="nextFable(4)">Perceptions change based on circumstances.</div>
+    </div>
+</div>
+
+<script>
+    let currentFable = 0;
+    const fables = [
+        {
+            text: "The Fox and the Grapes.",
+            choices: [
+                "It's easy to despise what you cannot have.",
+                "Nature has a way of balancing desires.",
+                "Not everything we desire is good for us.",
+                "Perceptions change based on circumstances."
+            ]
+        },
+        // Add more fables and choices as needed
+    ];
+
+    function nextFable(choiceIndex) {
+        // Logic for moving to the next fable
+        currentFable++;
+        if (currentFable < fables.length) {
+            document.getElementById('fableText').innerText = fables[currentFable].text;
+            const choicesDiv = document.querySelector('.choices');
+            choicesDiv.innerHTML = '';
+            fables[currentFable].choices.forEach((choice, index) => {
+                const choiceDiv = document.createElement('div');
+                choiceDiv.className = 'choice';
+                choiceDiv.innerText = choice;
+                choiceDiv.onclick = () => nextFable(index);
+                choicesDiv.appendChild(choiceDiv);
+            });
+        } else {
+            // End of fables
+            document.getElementById('fableText').innerText = "Thank you for exploring Phaedrus' fables!";
+            document.querySelector('.choices').innerHTML = '';
+        }
+    }
+</script>
