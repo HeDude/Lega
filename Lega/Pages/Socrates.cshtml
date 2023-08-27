@@ -13,7 +13,7 @@
 
 <div class="socrates_container">
     <!-- Element to display the question title -->
-    <div id="questionTitle" class="question_title"></div>
+    <div id="interactionTitle" class="question_title"></div>
 
     <!-- 2x2 Button Grid -->
     <div class="button_grid">
@@ -27,4 +27,9 @@
         </div>
     </div>
 </div>
-<script src="~/js/socrates.js" asp-append-version="true"></script>
+<script src="~/js/interaction.js" asp-append-version="true"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        loadGuideInteraction("Socrates", "about_what_may_I_ask_you_something", "EN");
+    });
+</script>
