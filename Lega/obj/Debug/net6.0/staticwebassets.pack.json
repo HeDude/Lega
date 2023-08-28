@@ -269,6 +269,18 @@
       "PackagePath": "staticwebassets\\model\\guide_nl.json"
     },
     {
+      "Id": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\model\\modified_phaedrus_en.json",
+      "PackagePath": "staticwebassets\\model\\modified_phaedrus_en.json"
+    },
+    {
+      "Id": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\model\\phaedrus_en.json",
+      "PackagePath": "staticwebassets\\model\\phaedrus_en.json"
+    },
+    {
+      "Id": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\model\\phaedrus_en_old.json",
+      "PackagePath": "staticwebassets\\model\\phaedrus_en_old.json"
+    },
+    {
       "Id": "C:\\Users\\slagt\\source\\repos\\Lega\\Lega\\wwwroot\\model\\socrates_en.json",
       "PackagePath": "staticwebassets\\model\\socrates_en.json"
     },

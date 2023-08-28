@@ -19,7 +19,7 @@ function loadGuideInteraction(guide, startKey, languageCode) {
         });
 }
 
-// Function to update the UI based on a question key
+// Function to update the UI based on a interaction key
 function displayInteraction(interactionKey) {
     const interactionData = jsonData[interactionKey];
     if (interactionData.choice && interactionData.choice.length === 0) {
@@ -37,13 +37,22 @@ function displayInteraction(interactionKey) {
         return;
     }
 
-    // Update the main question
+    // Update the main interaction
     const interactionTitleElement = document.getElementById('interactionTitle');
     if (interactionTitleElement) {
         interactionTitleElement.innerText = interactionData.title;
     } else {
         console.error("Element with id 'interactionTitle' not found.");
     }
+
+    // Handle the optional description property
+    const interactionDescriptionElement = document.getElementById("interactionDescription");
+    if (interactionDescriptionElement && interactionData.description) {
+        interactionDescriptionElement.innerText = interactionData.description;
+    } else if (interactionDescriptionElement) {
+        interactionDescriptionElement.innerText = "";  // Clear any previous content if the description isn't available
+    }
+
 
     // Update buttons
     for (let i = 0; i < 4; i++) {
@@ -52,7 +61,7 @@ function displayInteraction(interactionKey) {
             btn.innerText = interactionData.choice[i].option;
             btn.style.display = 'block';
             btn.onclick = function () {
-                goToNextQuestion(interactionData.choice[i].response);
+                goToNextInteraction(interactionData.choice[i].response);
             };
         } else {
             btn.style.display = 'none';
@@ -60,8 +69,8 @@ function displayInteraction(interactionKey) {
     }
 }
 
-// Function to choose the next question based on weights
-function goToNextQuestion(response) {
+// Function to choose the next interaction based on weights
+function goToNextInteraction(response) {
     const totalWeight = Object.values(response).reduce((a, b) => a + b, 0);
     const randomNum = Math.random() * totalWeight;
     let weightSum = 0;

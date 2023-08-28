@@ -71,7 +71,7 @@ body {
     padding: 50px 0;
 }
 
-.question_title {
+.interaction_title {
     text-align: center;
     margin-bottom: 20px;
     color: #B67C6C; /* Match the font color to the button's background */
