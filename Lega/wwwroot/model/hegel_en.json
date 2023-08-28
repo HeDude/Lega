@@ -1,0 +1,247 @@
+{
+    "freedom_and_necessity": {
+        "title": "Freedom and Necessity",
+        "description": "Is human freedom compatible with determinism?",
+        "choice": [
+            {
+                "option": "Freedom is an illusion (Necessity)",
+                "response": {
+                    "spirit_and_nature": 100
+                }
+            },
+            {
+                "option": "Humans have free will (Freedom)",
+                "response": {
+                    "individual_and_universal": 100
+                }
+            },
+            {
+                "option": "Freedom is realized in recognizing necessity (Synthesis)",
+                "response": {
+                    "subject_and_object": 100
+                }
+            }
+        ]
+    },
+    "spirit_and_nature": {
+        "title": "Spirit and Nature",
+        "description": "Is the spiritual dimension of existence superior to the natural, material world?",
+        "choice": [
+            {
+                "option": "Nature is primary (Thesis)",
+                "response": {
+                    "freedom_and_necessity": 100
+                }
+            },
+            {
+                "option": "Spirit transcends nature (Antithesis)",
+                "response": {
+                    "individual_and_universal": 100
+                }
+            },
+            {
+                "option": "Spirit realizes itself in nature (Synthesis)",
+                "response": {
+                    "subject_and_object": 100
+                }
+            }
+        ]
+    },
+    "individual_and_universal": {
+        "title": "Individual and Universal",
+        "description": "Is the individual's welfare more important than the collective good?",
+        "choice": [
+            {
+                "option": "Individual rights are paramount (Thesis)",
+                "response": {
+                    "freedom_and_necessity": 100
+                }
+            },
+            {
+                "option": "Collective good supersedes individual interests (Antithesis)",
+                "response": {
+                    "spirit_and_nature": 100
+                }
+            },
+            {
+                "option": "Individual realizes self in the collective (Synthesis)",
+                "response": {
+                    "subject_and_object": 100
+                }
+            }
+        ]
+    },
+    "subject_and_object": {
+        "title": "Subject and Object",
+        "description": "How do we bridge the gap between our subjective experience and the objective world?",
+        "choice": [
+            {
+                "option": "The two are irreconcilably separate (Thesis)",
+                "response": {
+                    "freedom_and_necessity": 100
+                }
+            },
+            {
+                "option": "Objectivity is all that matters (Antithesis)",
+                "response": {
+                    "spirit_and_nature": 100
+                }
+            },
+            {
+                "option": "Subject knows itself through object (Synthesis)",
+                "response": {
+                    "end_of_journey": 100
+                }
+            }
+        ]
+    },
+    "end_of_journey": {
+        "title": "End of the Dialectical Journey",
+        "description": "You have navigated the complex dialectics of Hegelian philosophy. Reflect upon the journey and the synthesis of ideas.",
+        "choice": []
+    },
+    "mind_and_nature": {
+        "title": "Mind and Nature",
+        "description": "Which is the primary reality?",
+        "choice": [
+            {
+                "option": "Mind shapes nature",
+                "response": {
+                    "individual_and_universal": 100
+                }
+            },
+            {
+                "option": "Nature gives rise to mind",
+                "response": {
+                    "spirit_and_nature": 100
+                }
+            },
+            {
+                "option": "Both are manifestations of the same reality",
+                "response": {
+                    "freedom_and_necessity": 100
+                }
+            }
+        ]
+    },
+    "absolute_idea": {
+        "title": "The Absolute Idea",
+        "description": "How do you understand the culmination of all ideas?",
+        "choice": [
+            {
+                "option": "The end point of all philosophical thought",
+                "response": {
+                    "subject_and_object": 100
+                }
+            },
+            {
+                "option": "It's just an abstract concept",
+                "response": {
+                    "freedom_and_necessity": 100
+                }
+            },
+            {
+                "option": "A synthesis of all contradictions",
+                "response": {
+                    "spirit_and_nature": 100
+                }
+            }
+        ]
+    },
+    "history_and_progress": {
+        "title": "History and Progress",
+        "description": "Does history show humanity's progress?",
+        "choice": [
+            {
+                "option": "History is a random sequence of events",
+                "response": {
+                    "mind_and_nature": 100
+                }
+            },
+            {
+                "option": "History is the realization of freedom",
+                "response": {
+                    "absolute_idea": 100
+                }
+            },
+            {
+                "option": "Each era corrects the one before it",
+                "response": {
+                    "freedom_and_necessity": 100
+                }
+            }
+        ]
+    },
+    "reality_and_ideal": {
+        "title": "Reality and Ideal",
+        "description": "How do ideals relate to our lived reality?",
+        "choice": [
+            {
+                "option": "Ideals are unreachable fantasies",
+                "response": {
+                    "history_and_progress": 100
+                }
+            },
+            {
+                "option": "Reality should strive to match the ideal",
+                "response": {
+                    "mind_and_nature": 100
+                }
+            },
+            {
+                "option": "The ideal emerges from understanding reality",
+                "response": {
+                    "absolute_idea": 100
+                }
+            }
+        ]
+    },
+    "freedom_and_ethics": {
+        "title": "Freedom and Ethics",
+        "description": "How does freedom relate to moral duty?",
+        "choice": [
+            {
+                "option": "Freedom means no obligations",
+                "response": {
+                    "history_and_progress": 100
+                }
+            },
+            {
+                "option": "True freedom is recognizing your duty",
+                "response": {
+                    "reality_and_ideal": 100
+                }
+            },
+            {
+                "option": "Duty is the path to freedom",
+                "response": {
+                    "end_of_journey": 100
+                }
+            }
+        ]
+    },
+    "knowledge_and_truth": {
+        "title": "Knowledge and Truth",
+        "description": "Is all knowledge ultimately true?",
+        "choice": [
+            {
+                "option": "Truth is eternal and unchanging",
+                "response": {
+                    "freedom_and_ethics": 100
+                }
+            },
+            {
+                "option": "Knowledge evolves over time",
+                "response": {
+                    "reality_and_ideal": 100
+                }
+            },
+            {
+                "option": "Truth is the whole",
+                "response": {
+                    "end_of_journey": 100
+                }
+            }
+        ]
+    }
+}

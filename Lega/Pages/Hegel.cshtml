@@ -3,61 +3,34 @@
 @{
     ViewData["Title"] = "Hegel";
 }
-<div class="guide-section">
+<h1>Phaedrus</h1>
+<div class="hegel_explanation">
     <h2>Hegelian Dialectic</h2>
     <p>
         Dive into the world of Hegelian thought! Understand the progression of ideas through the Hegelian dialectic, characterized by thesis, antithesis, and synthesis. Choose the antithesis for each presented thesis and witness the synthesis of ideas.
     </p>
-
-    <div class="thesis" id="thesisText">
-        Freedom is the natural state of human beings.
-    </div>
-
-    <div class="choices">
-        <div class="choice" onclick="nextDialectic(1)">Humans inherently seek order and structure.</div>
-        <div class="choice" onclick="nextDialectic(2)">Freedom leads to chaos and anarchy.</div>
-        <div class="choice" onclick="nextDialectic(3)">Humans are bound by societal norms and expectations.</div>
-        <div class="choice" onclick="nextDialectic(4)">Freedom is an illusion; every choice has its constraints.</div>
-    </div>
 </div>
 
+<div class="hegel_container">
+    <!-- Element to display the question title -->
+    <div id="interactionTitle" class="interaction_title"></div>
+    <div id="interactionDescription" class="interactionDescription"></div>
+
+    <!-- 2x2 Button Grid -->
+    <div class="button_grid">
+        <div class="button_row">
+            <button id="btn1" class="answer_button">Button 1</button>
+            <button id="btn2" class="answer_button">Button 2</button>
+        </div>
+        <div class="button_row">
+            <button id="btn3" class="answer_button">Button 3</button>
+            <button id="btn4" class="answer_button">Button 4</button>
+        </div>
+    </div>
+</div>
+<script src="~/js/interaction.js" asp-append-version="true"></script>
 <script>
-    let currentDialectic = 0;
-    const dialectics = [
-        {
-            thesis: "Freedom is the natural state of human beings.",
-            antitheses: [
-                "Humans inherently seek order and structure.",
-                "Freedom leads to chaos and anarchy.",
-                "Humans are bound by societal norms and expectations.",
-                "Freedom is an illusion; every choice has its constraints."
-            ],
-            synthesis: "True freedom acknowledges societal constraints but strives for autonomy within them."
-        },
-        // Add more thesis-antithesis-synthesis groups as needed
-    ];
-
-    function nextDialectic(choiceIndex) {
-        // Display the synthesis based on the choice
-        alert('Synthesis: ' + dialectics[currentDialectic].synthesis);
-
-        // Move to the next dialectic
-        currentDialectic++;
-        if (currentDialectic < dialectics.length) {
-            document.getElementById('thesisText').innerText = dialectics[currentDialectic].thesis;
-            const choicesDiv = document.querySelector('.choices');
-            choicesDiv.innerHTML = '';
-            dialectics[currentDialectic].antitheses.forEach((antithesis, index) => {
-                const choiceDiv = document.createElement('div');
-                choiceDiv.className = 'choice';
-                choiceDiv.innerText = antithesis;
-                choiceDiv.onclick = () => nextDialectic(index);
-                choicesDiv.appendChild(choiceDiv);
-            });
-        } else {
-            // End of dialectics
-            document.getElementById('thesisText').innerText = "Thank you for exploring the Hegelian Dialectic!";
-            document.querySelector('.choices').innerHTML = '';
-        }
-    }
+    document.addEventListener('DOMContentLoaded', function () {
+        loadGuideInteraction("Hegel", "freedom_and_necessity", "EN");
+    });
 </script>

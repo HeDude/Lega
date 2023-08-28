@@ -25,8 +25,12 @@ function displayInteraction(interactionKey) {
     if (interactionData.choice && interactionData.choice.length === 0) {
         // Display the victory message when no answer choices are present
         const interactionTitleElement = document.getElementById('interactionTitle');
+        const interactionDescriptionElement = document.getElementById("interactionDescription");
         if (interactionTitleElement) {
             interactionTitleElement.innerText = `You have silenced ${guideName}! Congratulations!`;
+            if (interactionDescriptionElement) {
+                interactionDescriptionElement.innerText = "";
+            }
             for (let i = 1; i <= 4; i++) {
                 const btn = document.getElementById(`btn${i}`);
                 btn.style.display = 'none';  // Hide all answer buttons
