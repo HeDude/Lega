@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\slagt\source\repos\Lega\Lega
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/slagt/source/repos/Lega/Lega/Pages/corrected_Phaedrus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29ycmVjdGVkX1BoYWVkcnVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/slagt/source/repos/Lega/Lega/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
