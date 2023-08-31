@@ -1,0 +1,61 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Magistrate";
+}
+  <div class="container">
+    <h1 class="magistrate-title">Welcome to the Magistrate Game</h1>
+
+    <p class="magistrate-description">This game is designed to help you learn how to defend your portfolio effectively by presenting evidence and argumentation. Your task is to prove that you have obtained certain skills.</p>
+
+    <h2 class="skill-title">Skill</h2>
+    <p>Choose the skill you want to prove!</p>
+    <ul id="menu"></ul>
+
+    <h2 class="magistrate-subtitle">Defendant</h2>
+    <p class="magistrate-instruction">Your role is to convince the magistrate (AI) of the strength of your case. Provide evidence and arguments to achieve a positive outcome. Use the correct collectibles to build up your evidence. Use the correct laws to build up your argumentation. If the magistrate agrees then you can sent your evidence and argumentation (your porfolio) to your teacher for review.</p>
+
+    <div class="row">
+      <div class="col-6">
+          <h2 class="collectibles-title">Collectibles</h2>
+          <div class="magistrate-collectibles">
+              <div class="magistrate-collectible-item" draggable="true" id="book"  ondragstart="drag(event)"><i class="fas fa-book"></i></div>
+              <div class="magistrate-collectible-item" draggable="true" id="camera"  ondragstart="drag(event)"><i class="fas fa-camera"></i></div>
+              <div class="magistrate-collectible-item" draggable="true" id="car"  ondragstart="drag(event)"><i class="fas fa-car"></i></div>
+              <div class="magistrate-collectible-item" draggable="true" id="chart"  ondragstart="drag(event)"><i class="fas fa-chart-bar"></i></div>
+              <div class="magistrate-collectible-item" draggable="true" id="coffee"  ondragstart="drag(event)"><i class="fas fa-coffee"></i></div>
+              <div class="magistrate-collectible-item" draggable="true" id="cog"  ondragstart="drag(event)"><i class="fas fa-cog"></i></div>
+              <div class="magistrate-collectible-item" draggable="true" id="compass"  ondragstart="drag(event)"><i class="fas fa-compass"></i></div>
+              <div class="magistrate-collectible-item" draggable="true" id="dice"  ondragstart="drag(event)"><i class="fas fa-dice"></i></div>
+              <div class="magistrate-collectible-item" draggable="true" id="envelope"  ondragstart="drag(event)"><i class="fas fa-envelope"></i></div>
+              <div class="magistrate-collectible-item" draggable="true" id="eye"  ondragstart="drag(event)"><i class="fas fa-eye"></i></div>
+        </div>
+        <h2 class="laws-title">Laws</h2>
+        <div class="laws-section">
+        <!-- Content for laws can go here -->
+        </div>
+      </div>
+
+      <div class="col-6">
+        <form id="defendant-form" class="magistrate-form">
+                <label for="evidence" class="magistrate-label">Evidence:</label>
+                <div id="evidence" class="magistrate-textarea" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                <br><br>
+
+          <label for="argumentation" class="magistrate-label">Argumentation:</label>
+          <textarea id="argumentation" name="argumentation" rows="4" cols="50" class="magistrate-textarea"></textarea><br><br>
+
+          <button type="submit" id="submit-evidence" class="magistrate-button">Submit Evidence and Argumentation</button>
+        </form>
+      </div>
+    </div>
+
+    <h2 class="magistrate-subtitle">Magistrate:</h2>
+    <div id="magistrate-response" class="magistrate-response"></div>
+    <button id="check-outcome" class="magistrate-button">Check Outcome</button>
+    <button id="sendToTeacherButton" class="send-to-teacher" disabled>Send to Teacher</button>
+  </div>
+<svg width="800" height="600" id="neural_network"></svg>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="~/js/prove.js" asp-append-version="true"></script>
+<script src="~/js/skill-hierachy.js" asp-append-version="true"></script>
