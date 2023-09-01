@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\background\\multiverse.png",
+      "PackagePath": "staticwebassets\\img\\background\\multiverse.png"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\background\\universe.png",
+      "PackagePath": "staticwebassets\\img\\background\\universe.png"
+    },
+    {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\builder.png",
       "PackagePath": "staticwebassets\\img\\character\\builder.png"
     },

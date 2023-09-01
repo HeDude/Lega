@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O0jecGo8UzPv5FVGlEdOZJkWDWGeRvsv3jdH2i9zHuU=",
+  "Hash": "Nit75lwRqAdTMGpNGrfy/A//Bo8gYr3599BtYzAQi0o=",
   "Source": "Lega",
   "BasePath": "_content/Lega",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\background\\multiverse.png",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "img/background/multiverse.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\background\\multiverse.png"
+    },
+    {
+      "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\background\\universe.png",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "img/background/universe.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\background\\universe.png"
     },
     {
       "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\builder.png",
