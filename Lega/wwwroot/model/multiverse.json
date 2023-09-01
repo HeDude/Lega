@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Builder",
+    "radius": 80,
+    "x": 200,
+    "y": 200
+  },
+  {
+    "name": "Cook",
+    "radius": 60,
+    "x": 350,
+    "y": 220
+  },
+  {
+    "name": "Mechanic",
+    "radius": 90,
+    "x": 200,
+    "y": 400
+  },
+  {
+    "name": "Pilot",
+    "radius": 50,
+    "x": 500,
+    "y": 350
+  },
+  {
+    "name": "Scientist",
+    "radius": 50,
+    "x": 475,
+    "y": 225
+  },
+  {
+    "name": "Teacher",
+    "radius": 70,
+    "x": 375,
+    "y": 375
+  }
+]

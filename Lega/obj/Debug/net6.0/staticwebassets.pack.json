@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\builder.png",
+      "PackagePath": "staticwebassets\\img\\character\\builder.png"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\cook.png",
+      "PackagePath": "staticwebassets\\img\\character\\cook.png"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\mechanic.png",
+      "PackagePath": "staticwebassets\\img\\character\\mechanic.png"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\pilot.png",
+      "PackagePath": "staticwebassets\\img\\character\\pilot.png"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\scientist.png",
+      "PackagePath": "staticwebassets\\img\\character\\scientist.png"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\teacher.png",
+      "PackagePath": "staticwebassets\\img\\character\\teacher.png"
+    },
+    {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\socrates.svg",
       "PackagePath": "staticwebassets\\img\\socrates.svg"
     },
@@ -31,6 +55,10 @@
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\learning_path.js",
       "PackagePath": "staticwebassets\\js\\learning_path.js"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\multiverse.js",
+      "PackagePath": "staticwebassets\\js\\multiverse.js"
     },
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\prove.js",
@@ -283,6 +311,10 @@
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\hegel_en.json",
       "PackagePath": "staticwebassets\\model\\hegel_en.json"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\multiverse.json",
+      "PackagePath": "staticwebassets\\model\\multiverse.json"
     },
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\phaedrus_en.json",
