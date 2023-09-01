@@ -286,3 +286,8 @@ body {
 .skill-title {
     color: #004b8d;
 }
+
+#multiverseCanvas {
+    background-color: black;
+    border-radius: 50%; /* This makes the canvas round */
+}
