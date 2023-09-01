@@ -24,8 +24,10 @@ window.addEventListener("load", function () {
 
             // Create radial gradient for "bubble" effect
             const gradient = ctx.createRadialGradient(universe.x, universe.y, 0, universe.x, universe.y, universe.radius);
-            gradient.addColorStop(0, 'rgba(255, 255, 255, 0)');
-            gradient.addColorStop(0.85, 'rgba(255, 255, 255, 0.2)');
+            gradient.addColorStop(0, 'rgba(0, 0, 0, 1)');
+            gradient.addColorStop(0.4, 'rgba(0, 0, 0, 0.8)');
+            gradient.addColorStop(0.85, 'rgba(0, 0, 0, 0.2)');
+            gradient.addColorStop(0.90, 'rgba(255, 255, 255, 0.2)');
             gradient.addColorStop(1, 'rgba(255, 255, 255, 0.8)');
 
             ctx.fillStyle = gradient;
@@ -37,6 +39,13 @@ window.addEventListener("load", function () {
             ctx.stroke();
 
             ctx.closePath();
+
+            // Load the universe background image
+            const universeImg = new Image();
+            universeImg.src = './img/background/universe.png';
+            universeImg.onload = function () {
+                ctx.drawImage(universeImg, universe.x - universe.radius, universe.y - universe.radius, universe.radius * 2, universe.radius * 2);
+            };
 
             // Load the corresponding character image
             const img = new Image();

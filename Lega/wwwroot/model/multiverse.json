@@ -9,7 +9,7 @@
     "name": "Cook",
     "radius": 60,
     "x": 350,
-    "y": 220
+    "y": 210
   },
   {
     "name": "Mechanic",
@@ -20,13 +20,13 @@
   {
     "name": "Pilot",
     "radius": 50,
-    "x": 500,
+    "x": 510,
     "y": 350
   },
   {
     "name": "Scientist",
     "radius": 50,
-    "x": 475,
+    "x": 470,
     "y": 225
   },
   {
