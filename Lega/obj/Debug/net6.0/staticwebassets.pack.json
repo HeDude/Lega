@@ -29,8 +29,24 @@
       "PackagePath": "staticwebassets\\img\\character\\cook.png"
     },
     {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\driver.png",
+      "PackagePath": "staticwebassets\\img\\character\\driver.png"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\entrepreneur.png",
+      "PackagePath": "staticwebassets\\img\\character\\entrepreneur.png"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\fireman.png",
+      "PackagePath": "staticwebassets\\img\\character\\fireman.png"
+    },
+    {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\mechanic.png",
       "PackagePath": "staticwebassets\\img\\character\\mechanic.png"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\painter.png",
+      "PackagePath": "staticwebassets\\img\\character\\painter.png"
     },
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\pilot.png",

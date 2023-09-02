@@ -12,10 +12,34 @@
     "y": 210
   },
   {
+    "name": "Driver",
+    "radius": 55,
+    "x": 310,
+    "y": 510
+  },
+  {
+    "name": "Entrepreneur",
+    "radius": 40,
+    "x": 430,
+    "y": 100
+  },
+  {
+    "name": "Fireman",
+    "radius": 40,
+    "x": 430,
+    "y": 490
+  },
+  {
     "name": "Mechanic",
     "radius": 90,
     "x": 200,
     "y": 400
+  },
+  {
+    "name": "Painter",
+    "radius": 55,
+    "x": 310,
+    "y": 75
   },
   {
     "name": "Pilot",
