@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\img\\character\\fireman.png"
     },
     {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\maverick.png",
+      "PackagePath": "staticwebassets\\img\\character\\maverick.png"
+    },
+    {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\mechanic.png",
       "PackagePath": "staticwebassets\\img\\character\\mechanic.png"
     },
@@ -79,6 +83,10 @@
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\learning_path.js",
       "PackagePath": "staticwebassets\\js\\learning_path.js"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\maverick.js",
+      "PackagePath": "staticwebassets\\js\\maverick.js"
     },
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\multiverse.js",
@@ -323,6 +331,10 @@
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\behavioral_style_terms.json",
+      "PackagePath": "staticwebassets\\model\\behavioral_style_terms.json"
     },
     {
       "Id": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\guide_en.json",

@@ -295,3 +295,60 @@ body {
     border-image: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)) 1;
     border-radius: 50%; /* This makes the canvas round */
 }
+
+.maverick-ai-chatbox {
+    width: 80%;
+    max-width: 600px;
+    border: 2px solid #007BFF;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.maverick-image-container {
+    text-align: center;
+    margin-bottom: 20px;
+    background-image: url('/img/character/maverick.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px; /* Adjust height as needed */
+    width: 100%;
+}
+
+.maverick-chat-message {
+    background-color: #E9E9E9;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.maverick-ai-response {
+    text-align: right;
+}
+
+    .maverick-ai-response .maverick-chat-message {
+        background-color: #007BFF;
+        color: #fff;
+    }
+
+.maverick-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    margin: 20px;
+}
+
+.maverick-cell {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.maverick-highlighted {
+    background-color: yellow;
+}
+
+.maverick-row-found {
+    background-color: green;
+}
