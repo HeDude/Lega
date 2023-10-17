@@ -1,0 +1,25 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Maverick";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>In this page we show a AI chatbox that determines your behavior style based on a dialoque with you! Take the maverick decision to be honest. <br />Be a maverick person to investigate with an open mind the AI's reflections.</p>
+
+<div class="maverick-ai-chatbox">
+    <div class="maverick-image-container"></div>
+    <div class="maverick-chat-message">
+        User: Show me the image of the maverick hero.
+    </div>
+    <div class="maverick-chat-message maverick-ai-response">
+        <div class="maverick-chat-message">AI: Here is the image of the maverick hero.</div>
+    </div>
+</div>
+
+<h1>Behavioral Style found</h1>
+<div class="maverick-container" id="maverickGrid">
+    <!-- Cells will be populated here -->
+</div>
+
+<script src="~/js/maverick.js" asp-append-version="true"></script>

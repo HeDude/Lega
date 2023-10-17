@@ -1,0 +1,62 @@
+{
+    "Category_1": [
+        "Combative",
+        "Fluent, Easy",
+        "Cooperative",
+        "Rational"
+    ],
+    "Category_2": [
+        "Powerful",
+        "Storytelling",
+        "Patient",
+        "Argumentative"
+    ],
+    "Category_3": [
+        "Attentive",
+        "Relativating",
+        "Tactful",
+        "Investigative"
+    ],
+    "Category_4": [
+        "Competitive",
+        "Environment oriented",
+        "Quiet, calm",
+        "Planning"
+    ],
+    "Category_5": [
+        "Ambitious",
+        "Enthusiast",
+        "Careful",
+        "Analytical"
+    ],
+    "Category_6": [
+        "Resolute",
+        "Lively",
+        "Collaborative",
+        "Logical"
+    ],
+    "Category_7": [
+        "Initiating",
+        "Easy",
+        "Empathic",
+        "Systematic"
+    ],
+    "Category_8": [
+        "Enterprising",
+        "Energetic",
+        "Harmonious",
+        "Consistent"
+    ],
+    "Category_9": [
+        "Leading",
+        "Influencing",
+        "Supportive",
+        "Thorough"
+    ],
+    "Category_10": [
+        "Goal oriented",
+        "Socially skilled",
+        "Modest",
+        "Substantive"
+    ]
+}

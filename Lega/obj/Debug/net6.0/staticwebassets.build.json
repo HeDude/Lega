@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gpHN913+aGgHGs7ohUZBH3Rk7L1XqS/Bzif173eJ9aE=",
+  "Hash": "tTh0CNOIJEMtAgChFLD3vK3jEdUpE5zxRBuEBBak+tk=",
   "Source": "Lega",
   "BasePath": "_content/Lega",
   "Mode": "Default",
@@ -204,6 +204,23 @@
       "OriginalItemSpec": "wwwroot\\img\\character\\fireman.png"
     },
     {
+      "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\maverick.png",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "img/character/maverick.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\character\\maverick.png"
+    },
+    {
       "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\img\\character\\mechanic.png",
       "SourceId": "Lega",
       "SourceType": "Discovered",
@@ -372,6 +389,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\learning_path.js"
+    },
+    {
+      "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\maverick.js",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "js/maverick.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\maverick.js"
     },
     {
       "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\js\\multiverse.js",
@@ -1409,6 +1443,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\behavioral_style_terms.json",
+      "SourceId": "Lega",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\Lega\\Lega\\wwwroot\\",
+      "BasePath": "_content/Lega",
+      "RelativePath": "model/behavioral_style_terms.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\model\\behavioral_style_terms.json"
     },
     {
       "Identity": "D:\\repos\\Lega\\Lega\\wwwroot\\model\\guide_en.json",
